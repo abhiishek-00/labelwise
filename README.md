@@ -23,6 +23,7 @@ Built as the final project for the DataTalksClub LLM Zoomcamp.
 | Hybrid search | [Retrieval evaluation](#retrieval-evaluation) — lexical + vector, alpha swept |
 | Document re-ranking | [Re-ranking earns its place](#re-ranking-earns-its-place) — implemented, evaluated, enabled |
 | Query rewriting | [Query rewriting](#query-rewriting-recovers-unanswerable-follow-ups) |
+| Screenshots | [Screenshots](#screenshots) |
 
 ---
 
@@ -413,6 +414,18 @@ Live backend tests are deselected by default and need real credentials:
  sql/ schema
  tests/ contract, retry, normalisation and UI tests
 ```
+
+---
+
+## Screenshots
+
+### UI mid answer
+
+![UI mid answer](img/search.png)
+
+### Grafana populated
+
+![Grafana](img/grafana.png)
 
 ---
 
