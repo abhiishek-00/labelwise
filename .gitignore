@@ -216,3 +216,49 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# ── LabelWise project-specific ────────────────────────────────────────────────
+
+# IDE
+.idea/
+.vscode/
+.DS_Store
+
+# Local-only notes: corporate network / proxy / firewall specifics.
+# MUST NOT be committed - contains internal hostnames and infra details.
+LOCAL-DEV-NOTES.md
+
+# Secrets
+.env
+.env.local
+*.secrets
+
+# Raw / bulk data downloads (the committed snapshot under data/snapshot is
+# whitelisted below; everything else raw is regenerable and stays out of git)
+data/raw/
+data/cache/
+*.parquet
+*.jsonl
+!data/snapshot/*.jsonl.gz
+
+# dlt working state
+.dlt/
+dlt_pipelines/
+*.duckdb
+
+# Streamlit / runtime
+.streamlit/secrets.toml
+
+# Model caches (fastembed / HF, external profile only)
+.fastembed_cache/
+.cache/huggingface/
+
+# Runtime logs
+logs/
+
+# Superseded snapshot format (now data/snapshot/products.csv)
+data/snapshot/*.jsonl.gz
+
+# Query-vector cache: dimension-specific (see D16), regenerated on first eval run
+data/evaluation/query_vectors.jsonl.gz

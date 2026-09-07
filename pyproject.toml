@@ -1,0 +1,58 @@
+[project]
+name = "labelwise"
+version = "0.1.0"
+description = "LabelWise - a grounded RAG assistant for food labels and packaged-product comparison"
+readme = "README.md"
+requires-python = ">=3.14"
+
+dependencies = [
+    # HTTP / LLM clients
+    "httpx>=0.28.1",
+    "openai>=3.6.0",
+    # Ingestion
+    "dlt[postgres]>=1.30.0",
+    # Storage
+    "psycopg2-binary>=2.9.12",
+    "pgvector>=0.4.1",
+    # API + UI
+    "fastapi>=0.141.1",
+    "uvicorn[standard]>=0.40.0",
+    "streamlit>=1.62.0",
+    "pydantic>=2.12.0",
+    # Data / eval
+    "pandas>=3.0.5",
+    "numpy>=2.5.2",
+    "plotly>=6.5.0",
+    # Utils
+    "python-dotenv>=1.2.1",
+    "tqdm>=4.70.0",
+]
+
+[project.optional-dependencies]
+# Notebooks for the retrieval / RAG experiments.
+notebooks = [
+    "jupyter>=1.1.1",
+    "matplotlib>=3.10.0",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=9.0.0",
+    "pytest-asyncio>=1.3.0",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-m 'not live' -q"
+asyncio_mode = "auto"
+markers = [
+    "live: tests that make real network calls to a configured backend",
+]
+
+[tool.uv]
+package = false
+
+[[tool.uv.index]]
+name = "pypi"
+url = "https://pypi.org/simple"
+default = true

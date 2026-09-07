@@ -1,0 +1,15 @@
+ apiVersion: 1
+ 
+ # Loads dashboard JSON from disk on start, so the dashboard exists on a fresh
+ # `docker compose up` with no API calls or manual import.
+ providers:
+   - name: LabelWise
+     orgId: 1
+     folder: ""
+     type: file
+     disableDeletion: false
+     updateIntervalSeconds: 30
+     allowUiUpdates: true
+     options:
+       path: /var/lib/grafana/dashboards
+       foldersFromFilesStructure: false

@@ -1,0 +1,1009 @@
+question,code,strategy,answer,error,total_tokens,grounding_score,retrieved_codes,hit,answer_chars,relevance,relevance_explanation
+How many calories are there in 100g of Rana's caramelized onion and goat cheese meal?,8001665725910,basic,The Rana caramelized onion and goat cheese meal contains 249 calories per 100g.,,1698,1.0,8001665725910|0042272001651|0011110651426|5063089139431|3222475123696,True,79,RELEVANT,The generated answer fully answers the question by stating the number of calories in 100g of Rana's caramelized onion and goat cheese meal.
+What are the key ingredients in Bio Village's cocoa-flavored frozen biscuits?,3564707155281,basic,"The key ingredients in Bio Village's cocoa-flavored frozen biscuits are:
+
+- Farine de blé (wheat flour) 73%
+- Sucre de canne (cane sugar)
+- Huile de tournesol (sunflower oil)
+- Beurre (butter)
+- Lait écrémé en poudre (skimmed milk powder)
+- Cacao en poudre (cocoa powder) 1.6%
+- Extrait de malté d'orge (barley malt extract)
+- Poudres à lever (raising agents): E503ii, E336i, E500ii
+- Émulsifiant: lécithine (sunflower) 
+- Extrait de cacao (cocoa extract)
+- Vitamine B1
+
+All ingredients are from organic agriculture.",,2240,1.0,3564707155281|8690504014201|3250391773909|4068261088294|8001120929532,True,516,RELEVANT,"The generated answer fully lists the key ingredients in Bio Village's cocoa-flavored frozen biscuits, addressing the question completely."
+What is the sugar content per 100g in the chocolate biscuits with sea salt?,3226219013113,basic,The sugar content per 100g in the chocolate biscuits with sea salt (Les Petits carres Chocolat et sel de Guerande) is 28 g.,,1497,1.0,4088600184234|8710671003232|5063089267325|5060027070146|3226219013113,True,123,RELEVANT,The generated answer fully addresses the question by providing the specific sugar content per 100g for the chocolate biscuits with sea salt.
+Is there any added color in Friendly's Premium Ice Cream?,0029839403486,basic,"Yes, Friendly's Premium Ice Cream contains added color, specifically annatto and turmeric extract (color), as well as blue 1.",,1352,,0029839403486|0029839006809|0070640018338|0041548074863|0041000214899,True,125,RELEVANT,The generated answer fully addresses the question by stating the presence of added color in Friendly's Premium Ice Cream and specifying the types of color used.
+What are the ingredients in organic rolled oats?,8718907168847,basic,"The ingredients in organic rolled oats are as follows:
+
+1. **100% Whole Grain Quick Cook Instant Oats**: ORGANIC WHOLE GRAIN ROLLED OATS.
+2. **Organic large oat flakes**: Organic OAT.
+3. **Instant Oatmeal apple cinnamon**: ORGANIC WHOLE GRAIN ROLLED OATS, ORGANIC CANE SUGAR, ORGANIC DEHYDRATED APPLES, ORGANIC GROUND CINNAMON, SEA SALT, NATURAL FLAVOR.
+4. **Dark Chocolate Chunk Superfood Oatmeal**: Certified Gluten-Free Oats* (this includes organic oats since the context states it's part of the product), along with additional organic ingredients.
+
+Note: The specific product ""organic rolled oats"" does not have details provided separately, but these are the relevant ingredients in the context.",,1430,,0011110028051|0313407524698|0015000070212|0688267186974|6211144555521,False,699,PARTLY_RELEVANT,The answer provides related information about various products containing organic rolled oats but does not clearly specify the ingredients of organic rolled oats alone.
+How many calories are in Sainsbury's tuna steak packed in spring water per 100g?,00198639,basic,Sainsbury's tuna steak packed in spring water contains 116 kcal per 100g.,,1023,1.0,00198639|00184106|0011110141194|5000169128954|0070303030011,True,73,RELEVANT,The generated answer fully answers the question by providing the exact calorie content for Sainsbury's tuna steak packed in spring water per 100g.
+How much fat is present in Marks & Spencer's tomato and sausage pasta sauce per 100g?,00089227,basic,The fat content in Marks & Spencer's tomato and sausage pasta sauce is 8.4 g per 100 g.,,1217,1.0,00089227|00575300|01745566|01327267|5052449668629,True,87,RELEVANT,"The generated answer provides the exact fat content of Marks & Spencer's tomato and sausage pasta sauce per 100g, fully addressing the question."
+How many calories are in 100g of PICARD's roasted cashew nuts?,3270160854400,basic,PICARD's roasted cashew nuts contain 597 kcal per 100g.,,1081,1.0,3564700011270|3270160854400|7613269251583|3700961301365|0888670173695,True,55,RELEVANT,The generated answer fully addresses the question by providing the specific calorie content for 100g of PICARD's roasted cashew nuts.
+How much fat is in EPIC Baked Pork Rinds?,0732153119239,basic,The EPIC Baked Pork Rinds contain 17.8571 g of fat per 100g.,,1340,1.0,0732153119239|5411658300117|0071100004434|3168930000426|5010801005000,True,60,RELEVANT,"The generated answer fully provides the fat content of EPIC Baked Pork Rinds, as requested in the question."
+Does Asda's Bistro fish pie contain allergens?,5063089324301,basic,"Yes, Asda's Bistro fish pie contains allergens including crustaceans, fish, and milk.",,1572,,5063089324301|5057172726332|5052449539769|5057172606269|5054781082859,True,85,RELEVANT,The generated answer fully addresses the question by providing specific allergens present in Asda's Bistro fish pie.
+Can you recommend a sweet snack that contains chocolate and is made by Borggreve?,4006529002149,basic,"I recommend the ""Schoko Gebackenes Kekse"" by Borggreve. It is a sweet snack that contains chocolate.",,1406,,4006529002149|7032069109243|8718421154241|8718906105485|3760231780238,True,100,RELEVANT,"The answer provides a specific recommendation for a sweet snack containing chocolate made by Borggreve, fully addressing the question."
+What are the main ingredients in Roots' Kettle Cooked Potato Chips?,0850023976093,basic,"The main ingredients in Roots' Kettle Cooked Potato Chips are IDAHO® purple potatoes, avocado oil, and sea salt.",,1123,,0850023976093|0708163121920|5391528181230|0008400048028|0011110836700,True,112,RELEVANT,The generated answer fully lists the main ingredients in Roots' Kettle Cooked Potato Chips.
+Is there chili in La Bio Idea's Organic arrabiata sauce?,8717496903938,basic,"Yes, La Bio Idea's Organic arrabiata sauce contains chili (0.2%).",,1144,1.0,8717496903938|0059749982351|8029363759419|8016013001462|9100000737416,True,65,RELEVANT,The generated answer fully addresses the question by confirming the presence of chili in La Bio Idea's Organic arrabiata sauce.
+What are the ingredients in Ökovital's Bio Smoothies?,4038857130010,basic,"The ingredients in Ökovital's Bio Smoothies are:
+
+- Glukosesirup*
+- Rohrzucker*
+- Fruchtsaftkonzentrate und Fruchpüree (12.8%)
+- Traube (6.7%)
+- Banane* (3.1%)
+- Pfirsisch (1%)
+- Maracuja* (0.5%)
+- Mango* (0.5%)
+- Kiwi* (0.5%)
+- Erdbeere* (0.5%)
+- Schweinegelatine
+- Säuerungsmittel (Zitronensäure, Milchsäure)
+- natürliche Aromen
+- Pektin
+- färbendes Frucht- und Pflanzenauszüge (Karotten, Kürbis*, Apfel*, Alge, Safflor, Holunder)
+- Überzugsmittel Carnaubawachs*
+
+*Ingredients marked with an asterisk indicate they are organic.",,1565,0.714,4038857130010|4063367358838|4038857206623|0661475202049|9010054118089,True,529,RELEVANT,The generated answer fully provides the complete list of ingredients in Ökovital's Bio Smoothies.
+What type of meat is the Côte de porc from France?,0253001000009,basic,The Côte de porc from France is made from pork (Viande de porc).,,1213,,0253001000009|2471248019815|2441321031751|3500340000014|2696405050382,True,64,RELEVANT,The generated answer fully addresses the question by correctly stating that the Côte de porc is made from pork.
+What are the main ingredients in Loyd Grossman's Korma Sauce?,5000354159558,basic,"The main ingredients in Loyd Grossman's Korma Sauce are water, fried onions (onion, rapeseed oil), tomato purée, cream (milk) 8%, yogurt (milk), sugar, coconut cream, coconut flour (2.5%), modified maize starch, ginger purée, concentrated lemon juice, garlic purée, coriander, roasted almond flakes (0.8%), sea salt, and spices (ground cumin, ground roasted coriander, ground saffron, ground cassia, ground cardamom, ground fenugreek seeds, and chili powder).",,1588,1.0,5000354159558|5011308505017|5059697765766|5052675000965|5000354925399,True,459,RELEVANT,The generated answer fully lists the main ingredients in Loyd Grossman's Korma Sauce.
+What brand makes a tomato and sausage pasta sauce that contains 57% tomato pulp?,00089227,basic,The brand that makes a tomato and sausage pasta sauce containing 57% tomato pulp is Marks & Spencer.,,1273,1.0,00089227|0041129395905|01745566|0086341608167|4088700011638,True,100,RELEVANT,The generated answer correctly identifies the brand that makes the specified tomato and sausage pasta sauce.
+Are there any baby cereals that provide vitamins like C and D?,8410175073686,basic,"Yes, there are baby cereals that provide vitamins C and D. 
+
+- **5 Cereales y Leche** (Cerelac, Nestlé) contains Vitamin C and Vitamin D3.
+- **Nestum 5 Cereals** (Nestlé) contains Vitamin C and Vitamin D3.
+- **P'TITE CEREALE 5 Céréales** (Nestlé) also contains Vitamin C and Vitamin D. 
+
+The other products do not list these vitamins.",,2003,1.0,7613032490669|0028000033125|3288131500119|8445290117649|6161107792145,False,334,RELEVANT,"The answer provides a clear indication that there are baby cereals containing vitamins C and D, along with specific examples, directly addressing the question asked."
+What is the allergen information for Tyson's Grilled Sweet Teriyaki Flavored Chicken Thigh Fillets?,0023700045287,basic,The allergen information for Tyson's Grilled Sweet Teriyaki Flavored Chicken Thigh Fillets includes gluten and soybeans.,,1256,,0023700045287|0023700025104|0023700060129|0023700046345|0023700014856,True,120,PARTLY_RELEVANT,The answer provides some allergen information but does not include all pertinent allergens or state if there are any others that may be present.
+How many calories are in Bueno Creme hazelnut spread per 100 grams?,22173140,basic,The Bueno Creme hazelnut spread contains 540 kcal per 100 grams.,,1310,1.0,22173140|0060383062576|5410291000255|4013031062028|4002309003672,True,64,RELEVANT,The generated answer fully provides the calorie information for Bueno Creme hazelnut spread as requested.
+Is there any fat content in Himalayan Chef's pink salt grinder?,0818581010857,basic,"The Himalayan Chef's pink salt grinder contains no fat. Per 100g, the fat content is 0 g.",,1013,,0818581010857|0021248100598|0732153119239|8904004401134|4061463218179,True,89,RELEVANT,The answer fully addresses the question by stating that the Himalayan Chef's pink salt grinder contains no fat and provides the fat content as 0 g per 100g.
+What are the key ingredients in Granini's Minty Melon juice?,4048517678974,basic,"The key ingredients in Granini's Minty Melon juice are Wasser, Honigmelonensaft aus Honigmelonensaftkonzentrat (10%), Mangomark (10%), Zucker, Mangomark aus Mangomarkkonzentrat (6%), Zitronensaft aus Zitronensaftkonzentrat, natürliches Aroma, Antioxidationsmittel: Ascorbinsäure, Minzextrakt, and Vitamin A (aus Beta Carotin).",,1235,1.0,4048517678974|8423104000080|4009900542425|3092718621742|7617400047325,True,326,RELEVANT,"The answer fully lists the key ingredients in Granini's Minty Melon juice, providing complete information as requested by the question."
+How much fat is in the Atlantic smoked salmon from U per 100g?,3256228972699,basic,The Atlantic smoked salmon from U contains 11 g of fat per 100 g.,,1109,1.0,3256228972699|3256228125651|8413080009474|7613269481560|5000169473795,True,65,RELEVANT,The generated answer fully provides the amount of fat in the Atlantic smoked salmon from U per 100g.
+How many calories are in Pommes Frites Feinschnitt by korrekt?,4304218424112,basic,Pommes Frites Feinschnitt by korrekt contains 174 kcal per 100g.,,1026,1.0,4304218424112|5712871049969|4018077619830|3599741007593|3256226386542,True,64,RELEVANT,"The answer fully provides the calorie count for Pommes Frites Feinschnitt by korrekt, specifying the amount per 100g."
+What are the ingredients in Rana's fromage de chèvre and caramelized onion dish?,8001665725910,basic,"The ingredients in Rana's Fromage de Chèvre & Oignons Caramélisés are:
+
+- Farce 58%: fromage ricotta (sérum de lait, lait, sel), oignon rouge caramélisé 14% (oignon rouge 68%, sucre), crème (contient du lait), fromage de chèvre 6%, fromage mozzarella, chapelure (farine de blé tendre, eau, sel, levure), sérum de lait en poudre, huile de tournesol, amidons, oignon grillé, fromage râpé, beurre, fibres végétales (maïs et pommes de terre), sel, arômes naturels, flocons de pommes de terre, Vinaigre Balsamique (vinaigre de vin, moût de raisin (contient des sulfites)), persil, ciboulette.
+- Pâte 42%: farine de blé tendre, oeufs 30%, semoule de blé dur.",,1942,0.5,8001665725910|3266140059811|3523230016131|3303320000321|3700155202119,True,652,RELEVANT,The generated answer fully lists the ingredients in Rana's fromage de chèvre and caramelized onion dish.
+What is the sugar content per 100g in P'tits grains choco?,3222475413483,basic,The sugar content per 100g in P'tits grains choco is 23 g.,,1687,1.0,3222475413483|3297880000801|5410056011212|7613035449626|3421371518081,True,58,RELEVANT,The generated answer fully answers the question by providing the specific sugar content per 100g in P'tits grains choco.
+How much fat is in Iberitos Pastel de cabracho per 100g?,8436561578795,basic,The fat content in Iberitos Pastel de cabracho is 6.8 g per 100g.,,1950,1.0,8436561578795|8437002869793|8437019840020|3560071489441|8437003894275,True,65,RELEVANT,"The answer provides the specific fat content of Iberitos Pastel de cabracho, directly addressing the question asked."
+How many grams of protein are in 100g of Veganes Kassler by Meetlyke?,4032277007044,basic,The Veganes Kassler by Meetlyke contains 25.1 grams of protein per 100 grams.,,1456,1.0,4032277007044|4251725802189|9100000806112|5021320168343|8718300875823,True,77,RELEVANT,The generated answer fully answers the question by providing the exact amount of protein in 100 grams of Veganes Kassler by Meetlyke.
+Is there any honey in Oscar Mayer's Deli Fresh Slow Roasted Roast Beef?,0044700030394,basic,"Yes, there is honey in Oscar Mayer's Deli Fresh Slow Roasted Roast Beef.",,1289,,0044700030394|20304652|4056489601340|4088600502410|4047247564342,True,72,NON_RELEVANT,"The answer incorrectly states that there is honey in the product, which may not be true, thus failing to accurately address the question."
+Which granola mixes contain whey protein concentrate?,0850047220875,basic,"The granola mixes that contain whey protein concentrate are:
+
+1. **Protein nut granola almond butter** by Nutrail.",,1409,,3830059011156|0196633820167|5600380896139|0016000234222|0850047220875,True,114,PARTLY_RELEVANT,The generated answer provides one example of a granola mix with whey protein concentrate but does not list any others or confirm if there are more options available.
+What is the protein content per 100g in Simpl's cured dry sausage?,5400101034570,basic,The protein content per 100g in Simpl's cured dry sausage (SIMPL Saucisson sec pur porc) is 23 g.,,1577,1.0,5400101034570|5400101009509|3272551000403|4056489914181|4008460245500,True,97,RELEVANT,The generated answer fully provides the protein content per 100g for Simpl's cured dry sausage.
+How many calories are in 100 grams of Coop Fine Food Gelato Fior di Latte?,7610845342437,basic,The Gelato Fior di Latte from Coop Fine Food contains 211 calories per 100 grams.,,1215,1.0,7610845342437|8002330134037|8001120709646|8001120929532|8001120914477,True,81,RELEVANT,The generated answer fully provides the required information about the calorie content in 100 grams of Coop Fine Food Gelato Fior di Latte.
+Does Franprix's Cidre de Normandie brut contain any allergens?,3263855096186,basic,Franprix's Cidre de Normandie brut does not declare any allergens.,,1405,,3263855096186|3596710267576|3270160680856|5425032930005|3612645629019,True,66,RELEVANT,The answer correctly states that there are no declared allergens in Franprix's Cidre de Normandie brut.
+Are there any salty snacks that contain 35g of fat per 100g?,28079484,basic,"Yes, there is a salty snack that contains 35g of fat per 100g: 
+
+- **Product**: Kartoffelchips mit Salz (Brand: Penny)
+- **Fat**: 35g per 100g",,1235,,4056489902461|5060255520062|28079484|3250390475071|0008400048028,True,142,RELEVANT,The generated answer fully provides the requested information about a salty snack that contains 35g of fat per 100g.
+What are the ingredients in Stubb's Original Legendary Bar-B-Q Sauce?,0734756000020,basic,"The ingredients in Stubb's Original Legendary Bar-B-Q Sauce are: tomato puree (water, tomato paste), distilled vinegar, sugar, molasses, salt, spices (including black pepper, paprika, chili pepper), corn starch, brown sugar, contains less than 0.5% of: onion, garlic, guar gum (thickener), xanthan gum (thickener), natural flavor (including hickory smoke).",,1263,1.0,0734756000020|0858183005608|0074609092995|0013409351758|3760197944071,True,356,RELEVANT,The generated answer fully lists the ingredients in Stubb's Original Legendary Bar-B-Q Sauce.
+How many calories are there in 100g of Tesco Chunky Chocolate Cookies?,5054402920805,basic,There are 490 kcal in 100g of Tesco Chunky Chocolate Cookies.,,1521,1.0,5054402920805|5063089267325|4088600184234|5057753599928|0044000053895,True,61,RELEVANT,The generated answer fully addresses the question by providing the exact calorie content for 100g of Tesco Chunky Chocolate Cookies.
+What are the ingredients in Picard's breaded chicken sticks?,3270160202461,basic,"The ingredients in Picard's breaded chicken sticks (Bâtonnets de poulet panés) are:
+
+- Préparation à base de viande de poulet (filet de poulet (origine : France*) 38,9%, viande de poulet (origine : France*) 9,7%, eau, peau de poulet 3,6%, protéines de blé (gluten), sel, huile de tournesol, gélifiant : algues Euchema transformées)
+- Panure 32% (chapelure (farine de blé (gluten), levure, sel, épices en poudre (curcuma, paprika)), eau, farine de blé (gluten), semoule de blé dur (gluten), amidon de blé (gluten), gluten de blé, sel)
+- Huile de tournesol
+
+Allergen: gluten.",,1871,0.714,3270160202461|0060383206581|3270160207831|4061463887948|5391521362087,True,573,RELEVANT,"The generated answer fully provides the detailed ingredients of Picard's breaded chicken sticks, including percentages and allergen information."
+How many calories are there in a 100g serving of Crous's Triangle Comtois?,00013819,basic,There are 182 calories in a 100g serving of Crous's Triangle Comtois.,,2302,1.0,00013819|3256220064767|3292590801779|3250391870660|3263853004510,True,69,RELEVANT,The generated answer fully addresses the question by providing the correct calorie count for a 100g serving of Crous's Triangle Comtois.
+What is the shelf life of an unopened Pilos Milchreis?,4335619161481,basic,The shelf life of an unopened Pilos Milchreis is at least until the date indicated on the lid when stored under +8 °C.,,1325,1.0,4335619161481|8711200454655|4311596465064|4337256765183|42414957,True,118,RELEVANT,The generated answer fully provides the shelf life information of unopened Pilos Milchreis as indicated on the product packaging.
+Are there any artificial colors used in Skittles bite size candies?,0022000018847,basic,"Yes, Skittles bite size candies use artificial colors.",,1240,,0022000018847|0012546014762|0810165015913|7616500913493|0057961026518,True,54,RELEVANT,"The answer directly states that Skittles bite size candies use artificial colors, fully addressing the question."
+Does Great Value Rosée Pasta Sauce contain any allergens?,0628915408539,basic,"Great Value Rosée Pasta Sauce contains milk as an allergen. It may also contain traces of sesame, eggs, fish, soy, wheat, and mustard.",,1454,,0628915408539|0194346052912|0810159831345|0078742346342|4088700011638,True,134,RELEVANT,The answer fully addresses the question by identifying milk as an allergen and listing potential traces of other allergens.
+How much fat is contained in El Cencerro's Queso de oveja semicurado per 100g?,8480017316042,basic,El Cencerro's Queso de oveja semicurado contains 37 g of fat per 100 g.,,1053,1.0,8480017316042|8422823210213|20266523|8413100611229|8480013072836,True,71,RELEVANT,The generated answer accurately provides the fat content of El Cencerro's Queso de oveja semicurado per 100g.
+What brand offers an assortment of biscuits that includes dark and white chocolate?,3596710556144,basic,"The brand that offers an assortment of biscuits that includes dark and white chocolate is ASDA, with their product ""Belgian White Chocolate & Pretzel Cookies"" and Spar, with their ""spar dark chocolate biscuits"".",,1539,,8710671003232|5063089267325|4068261088294|4088600184234|5000254021535,False,211,PARTLY_RELEVANT,The answer identifies brands that offer biscuits with dark and white chocolate but does not provide a comprehensive list of all relevant brands that include both types of chocolate.
+Is there any sugar in Schnucks reduced fat cheddar cheese?,0041318581386,basic,"No, there is no sugar in Schnucks reduced fat cheddar cheese. It contains 0 grams of sugars per 100 grams.",,1191,,0041318581386|0041318530094|0078742267487|0041250670056|4311501486238,True,106,RELEVANT,The answer fully addresses the question by stating that there is no sugar in Schnucks reduced fat cheddar cheese and providing specific information about its sugar content.
+Does Sveltesse contain any sugars or salt?,8410100012636,basic,Sveltesse contains 0 g of sugars and 0 g of salt.,,1136,,8410100012636|9000295871898|20889463|0022000018847|4006824000970,True,49,RELEVANT,The generated answer fully addresses the question by providing the specific information that Sveltesse contains 0 g of sugars and 0 g of salt.
+Does Vanille Traum Ice Cream Style Orange Caprio contain any allergens?,4002971395907,basic,"Yes, Vanille Traum Ice Cream Style Orange Caprio contains milk as an allergen.",,2656,,4002971395907|4061458109611|6111178000519|3560071489441|3564700882269,True,78,PARTLY_RELEVANT,The answer correctly identifies milk as an allergen but does not clarify if there are any other allergens present in the product.
+"How many calories are in Organic Girl's smoothie, green cider?",0840469110045,basic,"The Organic Girl smoothie, green cider contains 30.6489 calories per 100g. For a 296 ml bottle, the total calorie count is not directly provided; however, you can calculate it based on the serving size if needed.",,1616,0.5,0840469110045|4038857130010|4260428140610|0032601706326|0013764001244,True,212,PARTLY_RELEVANT,The answer provides calorie information per 100g but does not directly state the total calorie count for a 296 ml bottle.
+How many calories are in 100g of AH rundvleessalade?,8710400042907,basic,There are 163 calories in 100g of AH rundvleessalade.,,2053,1.0,8710400042907|8719587095478|8719587095546|8710400481713|8719587132531,True,53,RELEVANT,"The generated answer provides the exact number of calories in 100g of AH rundvleessalade, directly addressing the question."
+How many calories are in 100g of Breaded Chicken Nuggets by Marks & Spencer?,00595445,basic,The Breaded Chicken Nuggets by Marks & Spencer contain 184 kcal per 100g.,,1347,1.0,00595445|00308403|00324922|00491426|00894418,True,73,RELEVANT,The generated answer fully provides the calorie content of the Breaded Chicken Nuggets by Marks & Spencer as requested in the question.
+What are the main ingredients in Tesco's Thai Inspired Chicken Curry Wrap?,03434581,basic,"The main ingredients in Tesco's Thai Inspired Chicken Curry Wrap are:
+
+- Water
+- Chicken Breast (23%)
+- Wheat Flour
+- Spinach
+- Coconut Milk
+- Rapeseed Oil
+- Shallot
+- Palm Oil
+- Cornflour
+- Green Chilli Purée
+- Sugar
+- Spirit Vinegar
+- Tomato Powder
+- Various spices and herbs (including Lemongrass, Coriander, Thai Basil, and Ginger Purée)",,1759,1.0,03434581|5057753892357|5010525363721|5400101048560|5053947788154,True,341,RELEVANT,The generated answer fully lists the main ingredients in Tesco's Thai Inspired Chicken Curry Wrap.
+Is there a cheese option that has zero sugars along with lower fat?,3228023120056,basic,"Yes, the ""Fromage allégé en matière grasse"" by Coeurmandie has zero sugars and lower fat, with 11 g of fat per 100 g.",,1181,1.0,3228023120056|4061459799590|5010525116204|7793913001754|0041250670056,True,117,RELEVANT,The answer provides a specific cheese option that meets both criteria of having zero sugars and lower fat.
+Is Govinda's Rote Bete Pulver suitable for a vegan diet?,4038507006191,basic,"Yes, Govinda's Rote Bete Pulver is suitable for a vegan diet, as it contains 100% organic beetroot powder and no animal-derived ingredients.",,1438,,4038507006191|4056489460312|4061458095228|5010034013544|4260718291398,True,140,RELEVANT,The generated answer fully addresses the question by confirming that Govinda's Rote Bete Pulver is suitable for a vegan diet and providing supporting information about its ingredients.
+Are Greenforce nuggets suitable for a vegetarian diet?,4260322212444,basic,"Yes, Greenforce nuggets are suitable for a vegetarian diet. They are labeled as vegetarian and vegan.",,1705,,4260322212444|8445290707352|4335619249493|8445290062208|4026584143618,True,101,RELEVANT,The generated answer fully addresses the question by confirming that Greenforce nuggets are suitable for a vegetarian diet.
+Is there any added sugar in Exotic Food Kokoscreme?,8853662002125,basic,"The Exotic Food Kokoscreme contains 2.7 g of sugars per 100g, but there is no mention of added sugar. Therefore, the information about added sugar is not available.",,1212,1.0,8853662002125|4000194332204|4260402480862|4337185605048|3760383181815,True,164,RELEVANT,"The answer correctly indicates that the information about added sugar is not available, which fully addresses the question."
+How many calories are there in 100g of AH's witlof and apple salad?,8718906114340,basic,The AH's witlof and apple salad contains 111.642 kcal per 100g.,,1792,1.0,8718906114340|8719587095546|8710400481713|8718906151758|8710400397816,True,63,RELEVANT,The generated answer fully answers the question by providing the exact calorie content of AH's witlof and apple salad per 100g.
+What are the ingredients in Metamucil's sugar-free orange flavor fiber therapy?,0037000308577,basic,"The ingredients in Metamucil's Sugar-Free Orange Flavor Fiber Therapy are: Psyllium husk (plantago ovata), Maltodextrin, citric acid, orange flavour, aspartame, yellow 6.",,1238,,0037000308577|0037000978480|7613269295853|0198168959220|50354009,True,170,RELEVANT,The generated answer fully lists all the ingredients in Metamucil's Sugar-Free Orange Flavor Fiber Therapy.
+What are the main ingredients in Magic mix snacks?,5010511479535,basic,The main ingredients in Magic mix snacks are not declared in the source data.,,1655,,5010511479535|0016000214972|0016000138803|0196633976796|0873983005047,True,77,RELEVANT,The generated answer correctly states that the information about the main ingredients in Magic mix snacks is not available in the source data.
+What is the calorie count per 100g for the Ensalada Ligera from LM Sandwich?,8437000199038,basic,The calorie count per 100g for the Ensalada Ligera from LM Sandwich is 177 kcal.,,1587,1.0,8437000199038|7804097011016|8480024819086|7804610853772|4056489140320,True,80,RELEVANT,The generated answer fully provides the requested calorie count per 100g for the Ensalada Ligera from LM Sandwich.
+Does Nestlé Sinlac contain any sugar?,7613037019261,basic,"Yes, Nestlé Sinlac contains sugar.",,1543,,7613037019261|7613036519960|7613033582677|7613033068959|0055000407106,True,34,RELEVANT,"The generated answer correctly states that Nestlé Sinlac contains sugar, directly addressing the question."
+How much fat is in the Kuljanka borschtsch with beef?,20831844,basic,The Kuljanka borschtsch with beef contains 2.3 g of fat per 100 g.,,1549,1.0,20831844|9100000714660|4061458014045|3250391139804|5900397734357,True,66,RELEVANT,The generated answer fully provides the specific amount of fat in Kuljanka borschtsch with beef.
+What are the ingredients in President's Choice chicken nuggets?,0060383002251,basic,"The ingredients in President's Choice chicken nuggets (Pub chicken nuggets) are:
+
+- Chicken
+- Water
+- Enriched wheat flour
+- Vegetable oil
+- Whole wheat flour
+- Corn flour
+- Soy protein isolate
+- Rice starch
+- Corn starch
+- Modified corn starch
+- Salt
+- Sugar
+- Soy protein concentrate
+- Yeast
+- Wheat starch
+- Wheat gluten
+- Paprika
+- Annatto
+- Spice extract
+- Soy sauce powder
+- Onion powder
+- Baking powder
+- Chicken fat
+- Spice
+- Garlic powder
+- Flavour
+- Yeast extract
+- Dried chicken stock
+- Soy sauce",,1516,,0060383002251|0060249102613|0072745834578|0061483065146|0072745806223,True,507,RELEVANT,The generated answer fully lists the ingredients in President's Choice chicken nuggets.
+What are the ingredients in Praise's olive oil vinaigrette with roasted garlic?,9310047216847,basic,"The ingredients in Praise's olive oil vinaigrette with roasted garlic are: water, olive oil (15%), sunflower oil [antioxidant (320)], white vinegar, roasted garlic (4%) [food acid (330)], sugar, free range whole egg, salt, garlic, buttermilk powder, onion, vegetable gum (415 from soy), food acid (330), black pepper, natural flavour (milk).",,1296,0.167,9310047216847|0011110151728|3700238361993|3265475522007|5060178073713,True,341,RELEVANT,The generated answer fully lists the ingredients in Praise's olive oil vinaigrette with roasted garlic.
+How many calories are there per 100g in Pouce's assortment de biscuits?,3596710556144,basic,The Pouce's assortment de biscuits contains 485 kcal per 100g.,,1537,1.0,3596710556144|3256224060499|5020000168000|3449610763009|3250391714407,True,62,RELEVANT,"The generated answer provides the exact calorie count per 100g for Pouce's assortment de biscuits, fully addressing the question."
+How much fat is in 100g of Mortadelle from Il Gusto Deli Italia?,2007030026572,basic,The Mortadelle from Il Gusto Deli Italia contains 24 g of fat per 100 g.,,1565,1.0,2007030026572|8016451151507|8015673029694|3512690002075|0048176560027,True,72,RELEVANT,The generated answer fully answers the question by providing the exact amount of fat in 100g of Mortadelle from Il Gusto Deli Italia.
+Are there any allergens in Les Petits carres Chocolat et sel de Guerande?,3226219013113,basic,"Yes, Les Petits carres Chocolat et sel de Guerande contain the following allergens: eggs, gluten, and milk.",,1584,,3226219013113|3760231780238|3421371518081|3258590002509|5410976321019,True,107,PARTLY_RELEVANT,"The answer correctly identifies allergens but may not accurately reflect the specific allergens present in the product, potentially leading to misinformation."
+How many calories are in 100g of Chef Select guacamole?,4056489242079,basic,There are 147 calories in 100g of Chef Select guacamole.,,1400,1.0,4056489242079|0616112031506|4304218434791|8032523372489|20755638,True,56,RELEVANT,The generated answer fully provides the correct caloric information for 100g of Chef Select guacamole.
+How much fat is in Findus' cauliflower and cheese medallions?,8434702001034,basic,The Findus cauliflower and cheese medallions contain 14 g of fat per 100g.,,1251,1.0,5010251764670|8434702001034|7613035915695|8057018221998|7613030006190,True,74,RELEVANT,The generated answer fully provides the amount of fat in Findus' cauliflower and cheese medallions.
+What dietary supplement by Almased contains 52.2g of protein per 100g?,4250529300006,basic,The dietary supplement by Almased that contains 52.2g of protein per 100g is indeed called Almased.,,1316,,4250529300006|5060474941709|4061459425918|0039978006554|4036554703520,True,99,RELEVANT,The generated answer correctly identifies the dietary supplement by Almased that contains 52.2g of protein per 100g.
+How much protein does each 100g serving of ESN Strawberry Yoghurt Flavour contain?,4250519677057,basic,Each 100g serving of ESN Strawberry Yoghurt Flavour contains 33g of protein.,,1939,,4250519677057|4250519665573|5060360507514|0007789047893|5055534307281,True,76,RELEVANT,The generated answer fully answers the question by providing the exact amount of protein per 100g serving of the product.
+How many calories are there in 100 grams of Tyson Grilled Sweet Teriyaki Chicken Thigh Fillets?,0023700045287,basic,There are 166.667 calories in 100 grams of Tyson Grilled Sweet Teriyaki Chicken Thigh Fillets.,,1214,1.0,0023700045287|0023700025104|0023700060129|0023700014856|0023700026866,True,94,RELEVANT,The generated answer correctly provides the calorie content for 100 grams of the specified product.
+Does Gerber's Mealtime for Baby contain wheat as an allergen?,0015000073282,basic,"Yes, Gerber's Mealtime for Baby contains wheat as an allergen.",,1488,,0015000073282|0015000070519|36457953|7616100581535|0015000070212,True,62,RELEVANT,The generated answer fully confirms that Gerber's Mealtime for Baby contains wheat as an allergen.
+How many calories are there in 100 grams of madeleines pur beurre?,3286790100350,basic,The number of calories in 100 grams of madeleines pur beurre (8 madeleines pur beurre by Astruc patisserie) is 464 kcal.,,1538,1.0,3286790100350|3701005300047|3222475326547|3171910601070|3259426033599,True,120,RELEVANT,The generated answer accurately provides the calorie content for 100 grams of madeleines pur beurre.
+Is there soy in Iceland's Katsu Chicken Breast Fillets?,5010482789572,basic,"Yes, Iceland's Katsu Chicken Breast Fillets contain soybeans as an allergen.",,1667,,5010482789572|5010482833879|5010482632809|0196633934901|5057172606269,True,76,RELEVANT,"The answer directly confirms that Iceland's Katsu Chicken Breast Fillets contain soybeans, addressing the question appropriately."
+What are the ingredients in Carrefour's Papillotes Tattoo Chocolat au lait?,3560071301170,basic,"The ingredients in Carrefour's Papillotes Tattoo Chocolat au lait are: Sucre, lait entier en poudre, beurre de cacao, graisses végétales (palmiste, palme), pâte de cacao, céréales croustillantes (farine de riz, farine de blé, gluten de blé, sucre, malt de blé, émulsifiant : lécithines, sel), lactose, pâte de noisettes, pâte d'amandes, lactosérum en poudre, huile végétale de tournesol, émulsifiant : lécithines, cacao maigre en poudre, arômes, lait écrémé en poudre, matière grasse de lait anhydre. 
+
+It may contain traces of eggs and other nuts.",,1593,,3560071301170|3245412418020|3270190182603|5400101223776|3664346300216,True,548,RELEVANT,"The generated answer fully lists the ingredients of Carrefour's Papillotes Tattoo Chocolat au lait, thereby directly answering the question."
+Is there any sulphur dioxide in the pork hamburger by Carnes Portugal?,5608247000941,basic,"Yes, the pork hamburger by Carnes Portugal contains sulphur dioxide as it lists preservatives E221 and E224, which contain sulphites.",,1393,,5608247000941|233039790000100229002299|8410320001496|4056489140320|3018170403139,True,133,RELEVANT,The generated answer fully addresses the question by confirming the presence of sulphur dioxide in the pork hamburger and providing specific details about the preservatives involved.
+Can I find a smoked fish product that contains only salmon and salt?,8718265753600,basic,"Yes, you can find a smoked fish product that contains only salmon and salt. Product 4, ""Saumon atlantique (Salmo salar)"" from Migros, contains only ""Saumon Atlantique (Salmo salar)"" and ""sel de cuisine"" (cooking salt).",,1251,1.0,8413080009474|3033610074861|3038680055765|7613269481560|5000169473795,False,218,RELEVANT,The generated answer fully addresses the question by confirming the existence of a smoked fish product containing only salmon and salt.
+What is the protein content per 100g in Cora's Cocktail de Graines Salées?,3257980529046,basic,The protein content per 100g in Cora's Cocktail de Graines Salées is 22.8 g.,,1216,1.0,3257980529046|3257987675753|4333465847559|6007812003384|3222472454625,True,76,RELEVANT,The generated answer fully provides the protein content per 100g for Cora's Cocktail de Graines Salées.
+Are there any gluten-containing ingredients in Dobry Chrup by Lajkonik?,5900320011036,basic,"Yes, Dobry Chrup by Lajkonik contains gluten-containing ingredients, specifically wheat flour and wheat gluten.",,1492,,5900320011036|20756215|5901204000733|5902332104355|5900300512256,True,111,RELEVANT,The generated answer fully answers the question by confirming the presence of gluten-containing ingredients in Dobry Chrup by Lajkonik.
+Does LM Sandwich's light salad contain gluten?,8437000199038,basic,"Yes, LM Sandwich's light salad contains gluten.",,2268,,8437000199038|00680158|3700009281246|00028035|4061459956573,True,47,RELEVANT,The answer directly addresses the question by stating that LM Sandwich's light salad contains gluten.
+Is there any milk allergen in the Desserts Collection?,5390394010545,basic,"Yes, the Desserts Collection contains a milk allergen.",,1947,,5390394010545|3415581162714|3033491987373|0036632072993|29065165,True,54,RELEVANT,The generated answer fully addresses the question by confirming the presence of a milk allergen in the Desserts Collection.
+What is the calorie count per 100g for the feta and olive salad by M&S Food?,00153782,basic,The calorie count per 100g for the feta and olive salad by M&S Food is 136 kcal.,,1529,1.0,00153782|00920957|29456871|29087259|29339792,True,80,RELEVANT,The generated answer fully answers the question by providing the calorie count per 100g for the feta and olive salad by M&S Food.
+What are the ingredients in Paysan Breton's Fromage Le Petit Moulé Nature?,3236240070702,basic,"The ingredients in Paysan Breton's Fromage Le Petit Moulé Nature are: babeurre, crème et lait écrémé pasteurisés, sel, babeurre déshydraté, protéines laitières, ferments lactiques.",,1077,,3236240070702|3701002401686|2006050128396|3273220441404|3060921463060,True,180,RELEVANT,The generated answer fully lists the ingredients of Paysan Breton's Fromage Le Petit Moulé Nature.
+What are the ingredients in PICARD's cashew nuts with pepper and salt?,3270160854400,basic,"The ingredients in PICARD's cashew nuts with pepper and salt are: Noix de cajou, poivre, sel, stabilisant: gomme d'acacia.",,1356,,3270160854400|3564700011270|3270160742257|5060367181823|0196633976796,True,122,RELEVANT,The generated answer fully lists the ingredients in PICARD's cashew nuts with pepper and salt.
+Is there any goat cheese in Rana's pasta meals?,8001665725910,basic,"Yes, Rana's pasta meal ""FROMAGE DE CHÈVRE & OIGNONS CARAMÉLISÉS"" contains goat cheese (fromage de chèvre) at 6%.",,1469,1.0,8001665725910|80784258|8001665710299|8001665704007|8001665124010,True,112,RELEVANT,The generated answer fully answers the question by confirming that Rana's pasta meal contains goat cheese and providing specific details about the product.
+How much fat is in a serving of Sun Chips?,0008400048028,basic,"A serving of Sun Chips (1.5 oz) contains approximately 9.5 g of fat, based on the nutrition per 100g (21.1644 g of fat) and the serving size proportion.",,1161,1.0,0008400048028|4260353173493|0850059916018|0071026005201|8906076133265,True,152,RELEVANT,"The answer accurately provides the amount of fat in a serving of Sun Chips, fulfilling the question's requirement."
+What vegan nuggets are made by Soto?,4026584143618,basic,"The vegan nuggets made by Soto are called ""Végé Nuggets.""",,1800,,4026584143618|8445290707352|8445290062208|4335619249493|4260019320490,True,57,RELEVANT,The generated answer fully answers the question by providing the name of the vegan nuggets made by Soto.
+Are there any sugars in Planet's hulled hemp seeds?,4779035851104,basic,"Yes, Planet's hulled hemp seeds contain 1.4 g of sugars per 100 g.",,1217,1.0,0851770008877|4081234701853|4779035851104|0079893114378|0850047220059,True,66,RELEVANT,The generated answer fully provides the information about the sugar content in Planet's hulled hemp seeds.
+What are the main ingredients in Picard's chocolate mini-merveilleux?,3270160822720,basic,"The main ingredients in Picard's chocolate mini-merveilleux are:
+
+- Crème liquide (liquid cream) 29.9%
+- Copeau de chocolat (chocolate shavings) 22.4%
+- Chocolat noir (dark chocolate) 12.7%
+- Sucre (sugar)
+- Sucre liquide (liquid sugar)
+- Jaune d'œuf (egg yolk) 4.4%
+- Blanc d'œuf (egg white) 3.9%
+- Lait entier (whole milk)
+- Crème fraîche épaisse (thick fresh cream)
+- Eau (water)
+- Chocolat en poudre (cocoa powder) 0.8%
+- Cacao en poudre (cocoa)
+- Sirop de glucose en poudre (glucose syrup powder)
+- Cacao maigre en poudre (defatted cocoa powder)
+- Gélifiant (gelling agent): pectines",,2041,0.333,3270160822720|3270160827244|3421371518081|7622210333179|0215419016409,True,588,RELEVANT,The generated answer provides a comprehensive list of the main ingredients in Picard's chocolate mini-merveilleux.
+What is the protein content in Mon Cordon bleu de dinde by Royal Bernard?,3276280086332,basic,The protein content in Mon Cordon bleu de dinde by Royal Bernard is 20 g per 100g.,,1974,1.0,3276280086332|3378740534787|3350030141240|3276288400017|3266980517144,True,82,RELEVANT,"The generated answer provides the exact protein content for Mon Cordon bleu de dinde by Royal Bernard, fully addressing the question."
+What are the main ingredients in AH's Salade Specialiteit RUNDVLEES?,8719587095478,basic,"The main ingredients in AH's Salade Specialiteit RUNDVLEES are:
+
+- 43% aardappel
+- Groente (wortel, ui, doperwt)
+- 11% rundvlees
+- Plantaardige olie (raap, zonnebloem)
+- Water
+- Augurk
+- Suiker
+- Zilverui
+- Zout
+- Vrije-uitloopeigeel
+- Azijn
+- Zetmeel (mais, aardappel)
+
+Additional ingredients include conserveermiddel, kruiden, and others.",,1972,0.5,8719587095478|8710400042907|8710400481713|8718906151758|8719587095546,True,340,RELEVANT,"The generated answer fully lists the main ingredients in AH's Salade Specialiteit RUNDVLEES, directly addressing the question."
+"What is the fruit content in Bioitalia's organic apple, strawberry, and banana puree?",0661475202049,basic,"The fruit content in Bioitalia's organic apple, strawberry, and banana puree is as follows: 
+- Apple: 70%
+- Strawberry: 20%
+- Banana: 10%",,1197,1.0,0661475202049|0810387023079|0890000001417|3256222006260|4058172843167,True,137,RELEVANT,"The generated answer fully provides the specific fruit content percentages for each component in Bioitalia's organic apple, strawberry, and banana puree."
+What are the nutritional values per 100g for the GREENLAND champignons?,26034515,basic,"The nutritional values per 100g for the GREENLAND champignons are as follows:
+
+- Energy: 19 kcal
+- Fat: 0.5 g
+- Saturated fat: 0.1 g
+- Carbohydrates: 0.5 g
+- Sugars: 0.5 g
+- Fiber: 2.8 g
+- Protein: 2.1 g
+- Salt: 0.45 g",,1372,1.0,26034515|90364051|3263851505415|4005979000576|4056489514558,True,218,RELEVANT,The generated answer fully provides the nutritional values per 100g for GREENLAND champignons.
+Does Loyd Grossman's Korma Sauce contain any allergens?,5000354159558,basic,"Yes, Loyd Grossman's Korma Sauce contains the allergens milk and nuts.",,1502,,5000354159558|5011308505017|8712100698514|5011308505123|5052675000965,True,70,RELEVANT,The generated answer fully addresses the question by correctly identifying the allergens present in Loyd Grossman's Korma Sauce.
+How many calories are in Aroy-D's sauce sucrée pimentée pour poulet?,0016229905248,basic,The Aroy-D's Sauce Sucrée Pimentée Pour Poulet contains 275 kcal per 100g.,,1028,1.0,0016229905248|8850344000868|0084909000545|9556041608770|3661945210014,True,74,RELEVANT,The generated answer fully answers the question by providing the calorie content of Aroy-D's sauce per 100g.
+Is the micronized creatine powder from Sports Research gluten-free?,0023249093367,basic,"Yes, the micronized creatine powder from Sports Research is gluten-free.",,1001,,0023249093367|3608418898461|0198168959220|0850243008796|4260282014232,True,72,RELEVANT,The generated answer fully answers the question by confirming that the micronized creatine powder from Sports Research is gluten-free.
+Does the Praise deli style olive oil vinaigrette contain any allergens?,9310047216847,basic,"The Praise deli style olive oil vinaigrette contains the following allergens: eggs, milk, and soybeans.",,1295,,9310047216847|4061458073318|8712100694509|5018374037091|3261415150101,True,103,RELEVANT,The generated answer fully addresses the question by listing the allergens contained in the Praise deli style olive oil vinaigrette.
+How many calories are in Miel de fleurs des Cevennes by Verfeuille?,3527860000492,basic,The Miel de fleurs des Cevennes by Verfeuille contains 327 kcal per 100g.,,1051,1.0,3527860000492|3760121219527|3335440071035|3532090010098|20001056,True,73,RELEVANT,"The answer fully provides the calorie content of Miel de fleurs des Cevennes by Verfeuille, directly addressing the question."
+How much fat is there in 100 grams of Edeka Dijon mustard?,4311501641996,basic,Edeka Dijon mustard contains 12 g of fat per 100 grams.,,1195,1.0,4311501641996|3250390632245|4104720014104|5051140474201|3760151014468,True,55,NON_RELEVANT,"The generated answer incorrectly states the fat content, as Edeka Dijon mustard typically contains around 3.5 g of fat per 100 grams."
+What sweet snacks from Astruc Patisserie contain eggs and gluten?,3286790100350,basic,"The sweet snacks from Astruc Patisserie that contain eggs and gluten are the ""8 madeleines pur beurre.""",,2057,1.0,3760266590086|3286790100350|3567747050172|3596710556144|3270190182603,True,103,RELEVANT,"The answer provides a specific snack from Astruc Patisserie that contains both eggs and gluten, fully addressing the question."
+Are there any added sugars in Fiddler's Lancashire Crisps Sea Salt?,5060255520062,basic,"No, Fiddler's Lancashire Crisps Sea Salt does not contain added sugars. It has 0.1 g of sugars per 100 g, indicating minimal natural sugars from the potatoes.",,1376,1.0,5060255520062|4800449556450|5060040256992|5016451212270|5063089654552,True,158,RELEVANT,"The answer clearly states that there are no added sugars in the product, effectively addressing the question."
+How many calories are there in 100g of Harvest Crunch granola from Quaker?,0055577105429,basic,There are 444.444 calories in 100g of Harvest Crunch granola from Quaker.,,1374,1.0,0055577105429|0030000563328|4056489897606|0016000432697|0058449771807,True,73,RELEVANT,"The generated answer provides the specific calorie count for 100g of Harvest Crunch granola from Quaker, fully addressing the question."
+What are the nutritional values per 100g for Planet brand hemp seeds?,4779035851104,basic,"The nutritional values per 100g for Planet brand hemp seeds are as follows:
+
+- Energy: 606 kcal
+- Fat: 50 g
+- Saturated fat: 5.1 g
+- Carbohydrates: 3.3 g
+- Sugars: 1.4 g
+- Fiber: 3 g
+- Protein: 36 g
+- Salt: 0 g",,1017,1.0,4779035851104|0851770008877|5060427570338|0026200117713|5412500551534,True,210,RELEVANT,The generated answer fully provides the nutritional values per 100g for Planet brand hemp seeds.
+Can you tell me the ingredients of Calippo ice pops?,8711327580244,basic,"The ingredients of Calippo ice pops are: water, orange juice from concentrate (20%), glucose syrup, sugar, apple juice from concentrate (6%), fructose, soluble fibre, acidity regulator (citric acid), stabilisers (tara gum, locust bean gum), colours (paprika extract, curcumin), flavouring. May contain milk. Gluten free.",,2034,1.0,8711327580244|0041548000039|0058779399832|8719325110814|0069052129626,True,320,RELEVANT,"The generated answer fully lists the ingredients of Calippo ice pops, thereby directly answering the question."
+How many calories are in Friendly's Premium Ice Cream per 100g?,0029839403486,basic,Friendly's Premium Ice Cream contains 202.247 kcal per 100g.,,1287,1.0,0029839403486|0029839006809|0011110004635|0041000214899|0070640018338,True,60,RELEVANT,The generated answer provides the exact calorie information for Friendly's Premium Ice Cream per 100g.
+Does Biocoop's Confiture abricot extra contain any allergens?,3760121215321,basic,Biocoop's Confiture abricot extra contains no allergens.,,1254,,3760121215321|3700910203450|7613312248416|5400113672784|3350060000340,True,56,RELEVANT,"The answer clearly states that Biocoop's Confiture abricot extra contains no allergens, directly addressing the question."
+What are the ingredients in the orange carrot vegetable coating?,4260749410003,basic,"The ingredients in the orange carrot vegetable coating (Gemüsepanade Orange Carrot) are: 50% KAROTTE, KARTOFFEL, KURKUMAEXTRAKT. It may contain traces of celery.",,1257,0.0,4260749410003|4056489957263|0032601042004|01800074|0848860050861,True,161,RELEVANT,The generated answer fully lists the ingredients of the orange carrot vegetable coating and mentions possible traces of celery.
+Does HSN’s Evowhey & oats contain gluten?,5060326279400,basic,"Yes, HSN’s Evowhey & oats contains gluten.",,1227,,5060326279400|5060179300092|5060343741423|8714443805246|0077890648445,True,42,NON_RELEVANT,The generated answer incorrectly asserts that HSN’s Evowhey & oats contains gluten without verified evidence.
+What are the main ingredients in HSN's Evowhey & oats protein powder?,5060326279400,basic,"The main ingredients in HSN's Evowhey & oats protein powder are:
+
+- Harina de avena (gluten)
+- Proteína concentrada de suero de leche (emulgente: lecitina de girasol)
+- Cacao desgrasado en polvo
+- Aroma
+- Cloruro sódico
+- Corrector de acidez (carbonato de potasio)
+- Espesante (goma xantana)
+- Edulcorante (sucralosa)",,1717,,5060326279400|0041268215539|00001247|0041260381591|5056329509484,True,317,RELEVANT,The generated answer fully lists the main ingredients of HSN's Evowhey & oats protein powder.
+Does Ökovital's Bio Smoothies contain any allergens like gelatine?,4038857130010,basic,"Yes, Ökovital's Bio Smoothies contain Schweinegelatine (pork gelatin), which is an allergen.",,1373,,4038857130010|4335619226753|5999076238316|0838766006567|5060179300092,True,92,RELEVANT,"The answer directly addresses the question by confirming the presence of an allergen, specifically mentioning that Ökovital's Bio Smoothies contain pork gelatin."
+Does Niederegger's Mouss au Chocolat contain milk or nuts?,4000161020691,basic,Niederegger's Mouss au Chocolat contains milk and nuts (hazelnuts).,,1451,,4000161020691|4316268553933|4311501440773|4021851636718|4061458021869,True,67,RELEVANT,The generated answer fully addresses the question by clearly stating that Niederegger's Mouss au Chocolat contains both milk and nuts.
+What is the sugar content per 100g in Biocoop's apricot spread?,3760121215321,basic,The sugar content in Biocoop's apricot spread is 61g per 100g.,,1119,,3760121215321|7613312248416|7613356654655|5400113672784|0084380957543,True,62,RELEVANT,The generated answer provides the exact sugar content per 100g for Biocoop's apricot spread.
+What are the ingredients in Hacendado's Pérolas pasta?,8402001019890,basic,The ingredients in Hacendado's Pérolas pasta are: Sêmola de trigo-duro (gluten).,,1342,,8402001019890|8422623125106|8480000635563|8480000633224|8029342000020,True,80,PARTLY_RELEVANT,The answer lists one ingredient but does not provide a complete list of all ingredients in Hacendado's Pérolas pasta.
+How many calories are in 100 grams of Loyd Grossman Korma Sauce?,5000354159558,basic,Loyd Grossman Korma Sauce contains 128 kcal per 100 grams.,,1555,1.0,5000354159558|5011308505017|8712100698514|5059697765766|7610800230106,True,58,RELEVANT,The generated answer fully and accurately provides the calorie content of Loyd Grossman Korma Sauce per 100 grams.
+Does the Tomato & Sausage Pasta Sauce by Marks & Spencer contain celery?,00089227,basic,"Yes, the Tomato & Sausage Pasta Sauce by Marks & Spencer contains celery.",,1304,,00089227|00575300|00418881|00278355|00278386,True,73,RELEVANT,"The generated answer directly and accurately states that the Tomato & Sausage Pasta Sauce by Marks & Spencer contains celery, fully addressing the question."
+What are the ingredients in Franprix's Cidre de Normandie brut?,3263855096186,basic,The ingredients in Franprix's Cidre de Normandie brut are fruits à cidre de Normandie and sulfites.,,1665,,3263855096186|3266191018645|3307131002208|3560071489441|3270160680856,True,99,RELEVANT,"The answer provides the ingredients in Franprix's Cidre de Normandie brut, addressing the question fully."
+Can I find a frozen baby food pureed vegetable option suitable for infants starting from 4 months?,3760234500185,basic,"Yes, you can find a frozen baby food pureed vegetable option suitable for infants starting from 4 months. The product is ""Purée surgelée de potiron bio lisse pour bébé dès 4 mois"" by Yooji, which contains 95% potiron and is free from allergens.",,1527,0.667,3760234500185|3256226762216|0015000047917|5060503502673|0015000073282,True,244,RELEVANT,The generated answer fully addresses the question by confirming the availability of a suitable frozen baby food puree for infants starting from 4 months.
+Do Proper Chips contain any sugar?,5391528181230,basic,"Yes, Proper Chips contain 0.5 g of sugar per 100 g.",,1127,1.0,4260353173493|0008400048028|8906076133265|5391528181230|0071026005201,True,51,RELEVANT,"The answer directly states the sugar content in Proper Chips, fully addressing the question."
+Which beverage from La Vie Claire is specifically made for Vata balance?,3266191019338,basic,"The beverage from La Vie Claire specifically made for Vata balance is the ""Infusion ayurvédique Vata - La paix intérieure.""",,1323,,3266191019338|3266191018645|3760019004495|3266191035581|3266191151250,True,123,RELEVANT,The generated answer fully specifies the beverage from La Vie Claire that is made for Vata balance.
+Does Nestlé Clusters almond cereal contain any allergens?,7613287308870,basic,"Yes, Nestlé Clusters almond cereal contains allergens, specifically gluten and nuts. It may also contain milk and peanuts.",,1619,,7613287308870|0850047220875|9310055536708|7613038379173|5011476102131,True,122,PARTLY_RELEVANT,The answer identifies some allergens but does not provide complete information about all possible allergens or explicitly mention if it contains the major allergens recognized by regulatory standards.
+How many calories are in 100 grams of Pesto alla Genovese by Naturello?,8029175097709,basic,Pesto alla Genovese by Naturello contains 546 calories per 100 grams.,,1325,1.0,8029175097709|8029175095606|8029065003346|20069490|4061461781811,True,69,RELEVANT,The generated answer fully provides the requested information about the calorie content in 100 grams of Pesto alla Genovese by Naturello.
+How many calories are in Remia honey mustard dressing per 100g?,8710448536956,basic,The Remia honey mustard dressing contains 291 kcal per 100g.,,1303,1.0,8710448536956|0026700683558|8711200442881|8710448697589|40122786,True,60,RELEVANT,The generated answer fully provides the calorie content of Remia honey mustard dressing per 100g.
+How many calories are there in 100g of Hähnchen Cordon Bleu by Edeka?,4311596465880,basic,The Hähnchen Cordon Bleu by Edeka has 149 kcal per 100g.,,2045,1.0,4311596465880|4056489116585|4043362513302|4061458041201|4311501740736,True,56,RELEVANT,The generated answer fully answers the question by providing the calorie content for 100g of Hähnchen Cordon Bleu by Edeka.
+How much salt is in Dijon mustard with chili from Penny?,25809633,basic,The Dijon mustard with chili from Penny contains 6 g of salt per 100g.,,997,1.0,25809633|28079484|4311501641996|3036810100576|5000128919234,True,70,RELEVANT,The generated answer fully answers the question by providing the specific amount of salt in the Dijon mustard with chili from Penny.
+How many calories are there in 100g of Galletas con Arroz Sin Sal by Macrobiotica?,7790538009585,basic,There are 370 calories in 100g of Galletas con Arroz Sin Sal by Macrobiotica.,,1278,1.0,7790538009585|8431876291834|3329480131019|8480010197488|8414807501110,True,77,RELEVANT,The generated answer fully provides the calorie content of 100g of Galletas con Arroz Sin Sal by Macrobiotica as requested.
+Does clever spaghetti contain gluten?,9003740067129,basic,"Yes, Clever Spaghetti contains gluten.",,1005,,9003740067129|8008343235723|8076809571586|21106507|0002409400072,True,38,RELEVANT,The generated answer fully addresses the question by confirming that Clever Spaghetti contains gluten.
+What are the main ingredients in let's party Pigs in Blankets?,4088600192710,basic,"The main ingredients in let's party Pigs in Blankets are:
+
+1. Pork Sausage (70%) - made from Pork (57%), Water, Wheat Flour, Pork Fat, Pork Rind, Salt, Stabilisers (Diphosphates, Triphosphates), Sugar, Preservative (Sodium Sulphite), Yeast Extract, Ground White Pepper, Ground Nutmeg, Ground Ginger, Ground Mace, Pepper Extract, Nutmeg Extract, Mace Extract, Antioxidant (Ascorbic Acid).
+2. Smoked Streaky Bacon With Added Water (30%) - made from Pork Belly (87%), Water, Salt, Preservatives (Sodium Nitrite, Potassium Nitrate), Antioxidant (Sodium Ascorbate).",,1625,0.0,4088600192710|4335619072459|5055496712116|5000169071663|50339518,True,560,RELEVANT,The generated answer fully lists the main ingredients of 'let's party Pigs in Blankets' along with their composition.
+What are the main ingredients in Agidra Crevettes?,3580282330035,basic,"The main ingredients in Agidra Crevettes are crevette (Metapenaeopsis spp., Metapenaeus spp., Parapenaeopsis sport.), water, salt, sugar, flavor enhancers (E640, E627, E631), acidifier (E330), and antioxidants (sodium metabisulfite, E385).",,1146,,3580282330035|5704025024847|3267180364781|3596710430628|7611654605898,True,239,RELEVANT,The generated answer fully lists the main ingredients in Agidra Crevettes.
+What are the ingredients in Kania Thousand Island Salad Dressing?,20121129,basic,"The ingredients in Kania Thousand Island Salad Dressing are: water, rapeseed oil, sugar, tomato concentrate (7%), vinegar, pickled cucumber (6%) (cucumber, water, vinegar, salt), red bell pepper (4.2%), modified corn starch, mustard (2%) (water, vinegar, mustard seeds, sugar, salt), egg yolk, onion, salt, colorant (titanium dioxide), acidity regulator (lactic acid), stabilizer (xanthan gum), preservative (potassium sorbate), white pepper, turmeric, paprika extract.",,1547,1.0,20121129|20061319|0011110048677|0027271121340|0021000644216,True,469,RELEVANT,The generated answer fully lists all the ingredients in Kania Thousand Island Salad Dressing.
+How many calories are in 100g of Organic Arrabbiata sauce by Classico Italiano?,8029363759419,basic,The Organic Arrabbiata sauce by Classico Italiano contains 47 kcal per 100g.,,1090,1.0,8029363759419|8016013001462|80022138|8056737782032|0041129395905,True,76,RELEVANT,The generated answer fully answers the question by providing the specific calorie content of 100g of Organic Arrabbiata sauce by Classico Italiano.
+Is Kruidvat's Curcuma en gélules suitable for vegetarians?,8719179095879,basic,"Kruidvat's Curcuma en gélules is not suitable for vegetarians as it contains gélatine, which is an ingredient derived from animal sources.",,1400,,8719179095879|3478820033145|8720182086396|8711200339495|8076809571586,True,138,RELEVANT,The generated answer directly addresses the question by stating that Kruidvat's Curcuma en gélules is not suitable for vegetarians due to the presence of gélatine.
+How many calories are there in 100g of GOLDEN muesli avec pommes et amandes?,3168930010975,basic,There are 371 calories in 100g of GOLDEN muesli avec pommes et amandes.,,1647,1.0,3168930010975|3263851864017|2273107027180|3273120034034|3347431924350,True,71,RELEVANT,The generated answer fully answers the question by providing the exact number of calories in 100g of GOLDEN muesli avec pommes et amandes.
+How much fat is in Amy's California Scramble with Cheddar Cheese?,0042272014248,basic,The California Scramble with Cheddar Cheese by Amy's contains 11.4286 g of fat per 100 g.,,1838,1.0,0042272014248|0042272001651|0042272011490|0042272008339|0043695071085,True,89,RELEVANT,The generated answer fully answers the question by providing the specific amount of fat in Amy's California Scramble with Cheddar Cheese.
+What baby food has turkey and sweet potatoes from Gerber?,0015000073282,basic,"The baby food from Gerber that contains turkey and sweet potatoes is ""Mealtime for Baby power blend Turkey Rice.""",,1443,,0015000073282|0015000047917|0015000081096|0015000047450|0015000074920,True,113,NON_RELEVANT,"The generated answer incorrectly names a product that does not contain sweet potatoes, failing to address the question accurately."
+What are the ingredients in Exotic Food's coconut cream?,8853662002125,basic,"The ingredients in Exotic Food's coconut cream are:
+
+- Kokosnussextrakt 85%
+- Wasser
+- Verdickungsmittel: Guarkernmehl
+- Natrium-Carboxymethylcellulose
+- Emulgator: Polysorbat 60. 
+
+Allergens: none declared.",,2140,0.0,8853662002125|0814668000346|3580282816201|8428532192758|8050515301200,True,207,RELEVANT,"The generated answer fully lists the ingredients in Exotic Food's coconut cream and includes information about allergens, directly addressing the question."
+What is the main ingredient of Crème de la cream's Oats on the Go?,8714443805246,basic,The main ingredient of Crème de la cream's Oats on the Go is instant oats (Avoine instantanée).,,1315,,8714443805246|0011110028051|5060343741423|6211144555521|0077890648445,True,95,RELEVANT,The generated answer fully answers the question by identifying the main ingredient of Crème de la cream's Oats on the Go as instant oats.
+Can you recommend a type of chip with a high protein content?,8906076133265,basic,"For a chip with high protein content, I recommend:
+
+1. **Product 1 (Unnamed Protein Chips)** - Protein: 37 g per 100 g.
+2. **Product 2 (The Baker's Dozen Protein Chips)** - Protein: 22.22 g per 100 g.
+3. **Product 3 (The Baker's Dozen Protein Chips Korean Kimchi)** - Protein: 22.22 g per 100 g.
+
+The highest protein content is in Product 1.",,1489,1.0,4260353173493|8906076133265|8906076133289|0008400048028|5055936873728,True,341,RELEVANT,"The generated answer provides specific recommendations for chips with high protein content, effectively answering the question."
+Are Roots kettle cooked potato chips made with avocado oil?,0850023976093,basic,"Yes, Roots kettle cooked potato chips are made with avocado oil.",,1032,,0850023976093|0708163121920|5391528181230|0011110836700|0011110109965,True,64,RELEVANT,The generated answer fully answers the question by confirming that Roots kettle cooked potato chips are made with avocado oil.
+What is the energy content of Franprix Cidre de Normandie brut per 100g?,3263855096186,basic,The energy content of Franprix Cidre de Normandie brut per 100g is 0 kcal.,,1051,,3263855096186|3596710548101|3307131002208|3266191018645|3270160680856,True,74,RELEVANT,"The answer provides the energy content of Franprix Cidre de Normandie brut as 0 kcal, fully addressing the question."
+What is the calorie content of Great Value Rosée Pasta Sauce per 100g?,0628915408539,basic,The calorie content of Great Value Rosée Pasta Sauce is 96 kcal per 100g.,,1371,1.0,0628915408539|0194346052912|0078742346342|0605388927163|0810159831345,True,73,RELEVANT,The generated answer fully provides the calorie content of Great Value Rosée Pasta Sauce per 100g.
+What is the energy content per 100g in Blue Dragon's Thai Red Curry Paste?,5010338206079,basic,The energy content per 100g in Blue Dragon's Thai Red Curry Paste is 145 kcal.,,1441,1.0,5010338206079|0672774105870|5057753892357|2000000041075|0044738205610,True,78,RELEVANT,The generated answer fully provides the requested energy content of Blue Dragon's Thai Red Curry Paste per 100g.
+What are the ingredients in Verfeuille's flower honey?,3527860000492,basic,The ingredients in Verfeuille's flower honey (Miel de fleurs des Cevennes VERFEUILLE) are: miel toutes fleurs récolté en France.,,974,,3527860000492|3335440071035|3770006547010|3770001125015|3760121219527,True,128,RELEVANT,The generated answer fully provides the requested information about the ingredients in Verfeuille's flower honey.
+How much fat is in a 100g serving of Proper Chips by Strong Roots?,5391528181230,basic,A 100g serving of Proper Chips by Strong Roots contains 2.1 g of fat.,,1059,1.0,5391528181230|0850023976093|0008400048028|4260353173493|5099839046414,True,69,RELEVANT,The generated answer fully addresses the question by providing the specific amount of fat in a 100g serving of Proper Chips by Strong Roots.
+What are the main ingredients in GOLDEN's muesli with apples and almonds?,3168930010975,basic,"The main ingredients in GOLDEN's muesli with apples and almonds are: whole oats (62%), whole rye (21%), wheat flakes (which include whole wheat flour, corn flour, inulin, barley malt extract, and salt), dried apples (3.5%), raisins, dried dates, sunflower seeds, sliced almonds (1%), oligofructose, and natural flavor.",,1718,1.0,3168930010975|4251680811066|4316268552394|0055712465777|3465511311378,True,318,RELEVANT,The generated answer fully lists the main ingredients in GOLDEN's muesli with apples and almonds.
+What are the main ingredients in a sweet snack that contains 48.5% cashews?,8016225365963,basic,"The main ingredients in the sweet snack that contains 48.5% cashews are:
+
+- Cashews
+- Pitted Dates
+
+(Note: The specific product with 48.5% cashews is not explicitly listed in the provided context, but the second product has 51% cashews and includes pitted dates.)",,1264,0.333,0196633976796|4056489239925|0021130294244|0888670173695|0061200002423,False,263,PARTLY_RELEVANT,"The answer lists cashews and pitted dates as ingredients, but it does not specify that pitted dates are part of the snack with 48.5% cashews, leaving the response incomplete."
+Does Blédichef Lasagnes légumes contain gluten?,3041091828583,basic,"Yes, Blédichef Lasagnes légumes contains gluten, as it includes lasagnes made from semolina (wheat), which is a source of gluten.",,1828,,3041091828583|8013554104676|27023310|3596710519927|3041091422125,True,129,RELEVANT,The generated answer fully addresses the question by confirming the presence of gluten in Blédichef Lasagnes légumes and providing a reason for it.
+Is there any sugar in KETO LOCA's dark chocolate drops?,5425032435067,basic,"Yes, KETO LOCA's dark chocolate drops contain 1.4 g of sugar per 100g.",,1249,1.0,5425032435067|8719324515504|0011110507761|4000161170617|0034000249770,True,70,RELEVANT,"The generated answer provides the specific amount of sugar in KETO LOCA's dark chocolate drops, fully addressing the question."
+How many calories are in 100g of Saveur d'Auge Coq au vin?,3454740001327,basic,The Coq au vin from Saveur d'Auge contains 148 kcal per 100g.,,1219,1.0,3454740001327|3454740002348|0217637031622|3760055782791|3461951002418,True,61,RELEVANT,The generated answer provides the exact calorie information for 100g of Saveur d'Auge Coq au vin.
+How much sugar is in Rheila's Lakritz Hütchen?,4009077555051,basic,Rheila's Lakritz Hütchen contains 40 g of sugar per 100 g.,,1436,1.0,4009077555051|40084527|4033500101751|4260133232280|4008452040441,True,58,RELEVANT,The generated answer fully addresses the question by specifying the amount of sugar in Rheila's Lakritz Hütchen.
+What are the main ingredients in HappyBABY's Pain au graines de tournesol?,36457953,basic,"The main ingredients in HappyBABY's Pain au graines de tournesol are:
+
+- Weizenmehl (61%)
+- Sonnenblumenkerne (20%)
+- Roggenmehl (12%)
+- Getrockneter Sauerteig (Roggenmehl, natürlich fermentiert)
+- Jodiertes Speisesalz (Speisesalz, Kaliumjodat)
+- Trockenhefe
+- Traubenzucker
+- Gerstenmalzmehl
+- Malzextrakt (Gerste, Roggen)
+- Säuerungsmittel: Äpfelsäure
+- Säureregulator Natriumacetat
+- Mehlbehandlungsmittel: Calciumphosphate
+- Ascorbinsäure",,1391,1.0,36457953|3288131500119|7622210768933|6007812003384|3419390043318,True,442,RELEVANT,The generated answer fully lists the main ingredients in HappyBABY's Pain au graines de tournesol.
+What type of dessert is Pilos Milchreis considered?,4335619161481,basic,"Pilos Milchreis is considered a dessert, specifically a rice pudding.",,1364,,4335619161481|4311596465064|8711200454655|42414957|20090173,True,69,RELEVANT,The generated answer fully addresses the question by identifying Pilos Milchreis as a dessert and specifying its classification as rice pudding.
+How many calories are there in 100g of Rana's caramelized onion and goat cheese meal?,8001665725910,source_aware,The Rana - FROMAGE DE CHÈVRE & OIGNONS CARAMÉLISÉS contains 249 kcal per 100g.,,1843,1.0,8001665725910|0042272001651|0011110651426|5063089139431|3222475123696,True,78,RELEVANT,"The generated answer fully provides the calorie content of Rana's caramelized onion and goat cheese meal, which is exactly what the question asks for."
+What are the key ingredients in Bio Village's cocoa-flavored frozen biscuits?,3564707155281,source_aware,"The key ingredients in Bio Village's cocoa-flavored frozen biscuits (Mes petits biscuit, gôt cacao) are as follows:
+
+- Wheat flour* 73%
+- Cane sugar*
+- Sunflower oil*
+- Butter*
+- Skimmed milk powder*
+- Cocoa powder* 1.6%
+- Malt extract*
+- Raising agents: E503ii, E336i, E500ii
+- Emulsifier: lecithin (sunflower)*
+- Cocoa extract
+- Vitamin B1
+
+*Indicates ingredients from organic farming.
+
+This information is taken from Product 1 (Mes petits biscuit, gôt cacao) by Bio Village.",,2343,1.0,3564707155281|8690504014201|3250391773909|4068261088294|8001120929532,True,477,RELEVANT,The generated answer fully provides the key ingredients of Bio Village's cocoa-flavored frozen biscuits as requested.
+What is the sugar content per 100g in the chocolate biscuits with sea salt?,3226219013113,source_aware,"The sugar content per 100g in the chocolate biscuits with sea salt is as follows:
+
+- **Milk Chocolate Cookies** by Belmont Biscuits: 31.2 g of sugars.
+- **Spar Dark Chocolate Biscuits**: 34 g of sugars.
+- **Belgian White Chocolate & Pretzel Cookies** by ASDA: 27.3 g of sugars.
+- **Les Petits Carres Chocolat et Sel de Guerande** by Biscuiterie de l'Abbaye: 28 g of sugars.
+
+There is no specific product listed exclusively as ""chocolate biscuits with sea salt,"" so I compared the available chocolate biscuit products instead.",,1731,1.0,4088600184234|8710671003232|5063089267325|5060027070146|3226219013113,True,525,PARTLY_RELEVANT,"While the answer provides sugar content for various chocolate biscuits, it does not specifically identify the sugar content for chocolate biscuits with sea salt, leading to incomplete information."
+Is there any added color in Friendly's Premium Ice Cream?,0029839403486,source_aware,"Yes, Friendly's Premium Ice Cream includes added color. The ingredients list includes ""annatto and turmeric extract (color)"" and ""blue 1."" This information is taken from Product 1: Friendly's Premium Ice Cream.",,1504,,0029839403486|0029839006809|0070640018338|0041548074863|0041000214899,True,210,RELEVANT,The generated answer fully addresses the question by confirming the presence of added color and providing specific examples from the ingredients list.
+What are the ingredients in organic rolled oats?,8718907168847,source_aware,"The ingredients in organic rolled oats are as follows:
+
+1. **Simple Truth 100% Whole Grain Quick Cook Instant Oats**: ORGANIC WHOLE GRAIN ROLLED OATS.
+2. **Prozis Organic Large Oat Flakes**: Organic OAT.
+3. **Nature's Promise Instant Oatmeal Apple Cinnamon**: ORGANIC WHOLE GRAIN ROLLED OATS (also includes other ingredients but is primarily rolled oats).
+4. **Purely Elizabeth Dark Chocolate Chunk Superfood Oatmeal**: Certified Gluten-Free Oats* (note: it contains additional ingredients beyond oats).
+
+Interpretation: The first two products specifically list rolled oats or whole grain rolled oats as their sole ingredients. The third includes rolled oats but has added ingredients, while the fourth contains oats among other ingredients. The specific ingredient ""organic rolled oats"" is directly noted in Simple Truth and Nature's Promise products.",,1576,,0011110028051|0313407524698|0015000070212|0688267186974|6211144555521,False,852,PARTLY_RELEVANT,The answer provides examples of products containing organic rolled oats but does not directly list the generic ingredients for organic rolled oats themselves.
+How many calories are in Sainsbury's tuna steak packed in spring water per 100g?,00198639,source_aware,Sainsbury's Tuna Steak in Spring Water contains 116 kcal per 100g (Product 1).,,1160,1.0,00198639|00184106|0011110141194|5000169128954|0070303030011,True,78,RELEVANT,The generated answer fully provides the calorie information for Sainsbury's tuna steak packed in spring water per 100g.
+How much fat is present in Marks & Spencer's tomato and sausage pasta sauce per 100g?,00089227,source_aware,Marks & Spencer's Tomato & Sausage Pasta Sauce contains 8.4 g of fat per 100g (Product 1).,,1354,1.0,00089227|00575300|01745566|01327267|5052449668629,True,90,RELEVANT,The generated answer fully answers the question by providing the exact amount of fat present in Marks & Spencer's tomato and sausage pasta sauce per 100g.
+How many calories are in 100g of PICARD's roasted cashew nuts?,3270160854400,source_aware,"The calories in 100g of PICARD's roasted cashew nuts (Noix de cajou, poivre et sel) is 597 kcal as noted in Product 2.",,1236,1.0,3564700011270|3270160854400|7613269251583|3700961301365|0888670173695,True,118,RELEVANT,"The generated answer provides the exact calorie content for 100g of PICARD's roasted cashew nuts, directly addressing the question."
+How much fat is in EPIC Baked Pork Rinds?,0732153119239,source_aware,"EPIC Baked Pork Rinds (Pink Himalayan Sea Salt) contains 17.8571 g of fat per 100g (nutrition value sourced from Product 1). 
+
+Interpretation: This indicates that the product is relatively high in fat, which is expected for pork rinds.",,1510,1.0,0732153119239|5411658300117|0071100004434|3168930000426|5010801005000,True,235,RELEVANT,"The generated answer provides the specific amount of fat in EPIC Baked Pork Rinds, directly addressing the question."
+Does Asda's Bistro fish pie contain allergens?,5063089324301,source_aware,"Yes, Asda's Bistro fish pie contains allergens. According to the product label, it contains the following allergens: crustaceans, fish, and milk. Additionally, the product may also contain molluscs, soya, rye, barley, oats, spelt, kamut, and celery. This information is sourced from the product's ingredients and allergen advice.",,1761,,5063089324301|5057172726332|5052449539769|5057172606269|5054781082859,True,329,RELEVANT,The generated answer fully addresses the question by specifying the allergens present in Asda's Bistro fish pie and providing additional related allergen information.
+Can you recommend a sweet snack that contains chocolate and is made by Borggreve?,4006529002149,source_aware,"I recommend the sweet snack ""Schoko Gebackenes Kekse"" made by Borggreve. This product contains chocolate in the form of chocolate sprinkles (5% chocolate) and is a type of biscuit.
+
+- Ingredients: Weizenmehl, Zucker, Palmfett, Butterreinfett, Weizenstärke, Schokoladenstreusel 5% (Zucker, Kakaopulver Kakaobutter, Glukosesirup), Vollei, Speisesalz, Backtriebmittel: Ammoniumhydrogencarbonat (from Product 1). 
+
+No allergens are declared for this product.",,1644,1.0,4006529002149|7032069109243|8718421154241|8718906105485|3760231780238,True,454,RELEVANT,The generated answer fully addresses the question by recommending a specific sweet snack containing chocolate made by Borggreve.
+What are the main ingredients in Roots' Kettle Cooked Potato Chips?,0850023976093,source_aware,"The main ingredients in Roots' Kettle Cooked Potato Chips are IDAHO® purple potatoes, avocado oil, and sea salt (Product 1).",,1261,,0850023976093|0708163121920|5391528181230|0008400048028|0011110836700,True,124,RELEVANT,The generated answer fully provides the main ingredients of Roots' Kettle Cooked Potato Chips.
+Is there chili in La Bio Idea's Organic arrabiata sauce?,8717496903938,source_aware,"Yes, La Bio Idea's Organic Arrabiata Sauce contains chili. The ingredient list includes chili* (0.2%) as reported in Product 1.",,1292,1.0,8717496903938|0059749982351|8029363759419|8016013001462|9100000737416,True,127,RELEVANT,The generated answer fully addresses the question by confirming the presence of chili in La Bio Idea's Organic Arrabiata Sauce and provides specific information from the ingredient list.
+What are the ingredients in Ökovital's Bio Smoothies?,4038857130010,source_aware,"The ingredients in Ökovital's Bio Smoothies are as follows:
+
+- Glukosesirup*
+- Rohrzucker*
+- Fruchtsaftkonzentrate und Fruchtpüree 12.8% (comprising Traube 6.7%, Banane* 3.1%, Pfirsisch 1%, Maracuja* 0.5%, Mango* 0.5%, Kiwi* 0.5%, Erdbeere* 0.5%)
+- Schweinegelatine
+- Säuerungsmittel (Zitronensäure, Milchsäure)
+- natürliche Aromen
+- Pektin
+- färbendes Frucht- und Pflanzenauszüge (Karotten, Kürbis*, Apfel*, Alge, Safflor, Holunder)
+- Überzugsmittel Carnaubawachs*
+
+This information was taken from Product 1: Bio Smoothies by Ökovital.",,1702,0.714,4038857130010|4063367358838|4038857206623|0661475202049|9010054118089,True,536,RELEVANT,"The generated answer fully lists the ingredients in Ökovital's Bio Smoothies, providing complete and accurate information."
+What type of meat is the Côte de porc from France?,0253001000009,source_aware,"The Côte de porc from France, specifically the product ""Côte de porc, France, 1 pièce"" by U, is made from ""Viande de porc,"" which translates to pork meat.",,1371,,0253001000009|2471248019815|2441321031751|3500340000014|2696405050382,True,154,RELEVANT,"The generated answer correctly identifies that Côte de porc is made from pork meat, fully addressing the question."
+What are the main ingredients in Loyd Grossman's Korma Sauce?,5000354159558,source_aware,"The main ingredients in Loyd Grossman's Korma Sauce are:
+
+- Water (Eau)
+- Fried onions (oignons frits) [onion, rapeseed oil]
+- Tomato purée (purée de tomates)
+- Cream (lait) 8%
+- Yogurt (lait)
+- Sugar
+- Coconut cream
+- Coconut flour (2.5%)
+- Modified maize starch
+- Ginger purée
+- Concentrated lemon juice
+- Garlic purée
+- Coriander
+- Grilled almond flakes (0.8%)
+- Sea salt
+- Spices (including cumin, ground coriander, ground saffron, ground cassia, ground cardamom, ground fenugreek seeds, and chili powder)
+
+This information is taken from Product 1: Loyd Grossman Korma Sauce.",,1776,1.0,5000354159558|5011308505017|5059697765766|5052675000965|5000354925399,True,579,RELEVANT,"The generated answer fully lists the main ingredients in Loyd Grossman's Korma Sauce, directly addressing the question."
+What brand makes a tomato and sausage pasta sauce that contains 57% tomato pulp?,00089227,source_aware,"The brand that makes a tomato and sausage pasta sauce containing 57% tomato pulp is Marks & Spencer. This information comes from their product ""Tomato & Sausage Pasta Sauce,"" which lists tomato pulp as 57% of its ingredients.",,1434,1.0,00089227|0041129395905|01745566|0086341608167|4088700011638,True,225,RELEVANT,The generated answer fully addresses the question by correctly identifying the brand and providing the specific product that contains 57% tomato pulp.
+Are there any baby cereals that provide vitamins like C and D?,8410175073686,source_aware,"Yes, there are baby cereals that provide vitamins C and D. 
+
+1. **5 Cereales y Leche** by Cerelac, Nestlé - Contains Vitamin C and Vitamin D3 (Colecalciferol).
+2. **Nestum 5 Cereals** by Nestlé - Contains Vitamin C (Ascorbic Acid) and Vitamin D3 (Cholecalciferol).
+3. **P'TITE CEREALE 5 Céréales** by Nestlé, P'tite cereale - Contains Vitamin C and Vitamin D.
+
+These products provide both vitamins as part of their ingredient lists.",,2164,1.0,7613032490669|0028000033125|3288131500119|8445290117649|6161107792145,False,432,RELEVANT,The generated answer fully addresses the question by listing specific baby cereals that provide vitamins C and D.
+What is the allergen information for Tyson's Grilled Sweet Teriyaki Flavored Chicken Thigh Fillets?,0023700045287,source_aware,The allergen information for Tyson's Grilled Sweet Teriyaki Flavored Chicken Thigh Fillets (Product 1) includes gluten and soybeans.,,1395,,0023700045287|0023700025104|0023700060129|0023700046345|0023700014856,True,132,RELEVANT,"The generated answer provides specific allergen information regarding gluten and soybeans, fully addressing the question."
+How many calories are in Bueno Creme hazelnut spread per 100 grams?,22173140,source_aware,Bueno Creme hazelnut spread contains 540 kcal per 100 grams (Product 1).,,1447,1.0,22173140|0060383062576|5410291000255|4013031062028|4002309003672,True,72,RELEVANT,The generated answer fully provides the requested information about the calorie content in Bueno Creme hazelnut spread per 100 grams.
+Is there any fat content in Himalayan Chef's pink salt grinder?,0818581010857,source_aware,"The Himalayan Chef's Himalayan Pink Salt Grinder contains no fat. This is stated in the nutrition information per 100g, where fat is listed as 0 g (Himalayan Chef, Himalayan Pink Salt Grinder).",,1166,,0818581010857|0021248100598|0732153119239|8904004401134|4061463218179,True,193,RELEVANT,The generated answer fully addresses the question by clearly stating that the Himalayan Chef's pink salt grinder contains no fat.
+What are the key ingredients in Granini's Minty Melon juice?,4048517678974,source_aware,"The key ingredients in Granini's Minty Melon juice are:
+
+- Wasser (water)
+- Honigmelonensaft aus Honigmelonensaftkonzentrat (honeydew melon juice from concentrate) (10%)
+- Mangomark (mango puree) (10%)
+- Zucker (sugar)
+- Mangomark aus Mangomarkkonzentrat (mango puree from concentrate) (6%)
+- Zitronensaft aus Zitronensaftkonzentrat (lemon juice from concentrate)
+- Natürliches Aroma (natural flavor)
+- Antioxidationsmittel: Ascorbinsäure (antioxidant: ascorbic acid)
+- Minzextrakt (mint extract)
+- Vitamin A (aus Beta Carotin) (Vitamin A from beta carotene)
+
+This information is based on the Granini Minty Melon product (Product 1).",,1452,1.0,4048517678974|8423104000080|4009900542425|3092718621742|7617400047325,True,633,RELEVANT,"The generated answer fully provides the key ingredients in Granini's Minty Melon juice, addressing the question completely."
+How much fat is in the Atlantic smoked salmon from U per 100g?,3256228972699,source_aware,"The Atlantic smoked salmon from brand U, specifically the product ""Saumon fumé Atlantique Ecosse 4 tranches 140g,"" contains 11 g of fat per 100 g. Additionally, the ""Saumon fumé Atlantique bio - 2 tranches, 60g"" from U also contains 11 g of fat per 100 g.",,1302,1.0,3256228972699|3256228125651|8413080009474|7613269481560|5000169473795,True,255,RELEVANT,"The answer provides the specific amount of fat in the Atlantic smoked salmon from brand U per 100g, addressing the question fully."
+How many calories are in Pommes Frites Feinschnitt by korrekt?,4304218424112,source_aware,Pommes Frites Feinschnitt by korrekt contains 174 kcal per 100g (as per Product 1).,,1166,1.0,4304218424112|5712871049969|4018077619830|3599741007593|3256226386542,True,83,RELEVANT,The answer provides the requested information about the calorie content of Pommes Frites Feinschnitt by korrekt.
+What are the ingredients in Rana's fromage de chèvre and caramelized onion dish?,8001665725910,source_aware,"The ingredients in Rana's Fromage de Chèvre & Oignons Caramélisés are as follows:
+
+- **Farce 58%**: 
+  - Fromage ricotta (sérum de lait, lait, sel)
+  - Oignon rouge caramélisé 14% (oignon rouge 68%, sucre)
+  - Crème (contient du lait)
+  - Fromage de chèvre 6%
+  - Fromage mozzarella
+  - Chapelure (farine de blé tendre, eau, sel, levure)
+  - Sérum de lait en poudre
+  - Huile de tournesol
+  - Amidons
+  - Oignon grillé
+  - Fromage râpé
+  - Beurre
+  - Fibres végétales (maïs et pommes de terre)
+  - Sel
+  - Arômes naturels
+  - Flocons de pommes de terre
+  - Vinaigre Balsamique (vinaigre de vin, moût de raisin (contient des sulfites))
+  - Persil
+  - Ciboulette
+
+- **Pâte 42%**:
+  - Farine de blé tendre
+  - Œufs 30%
+  - Semoule de blé dur
+
+These details are derived from Product 1, Rana - Fromage de Chèvre & Oignons Caramélisés.",,2163,0.5,8001665725910|3266140059811|3523230016131|3303320000321|3700155202119,True,829,RELEVANT,"The generated answer fully lists the ingredients in Rana's Fromage de Chèvre & Oignons Caramélisés, directly addressing the question."
+What is the sugar content per 100g in P'tits grains choco?,3222475413483,source_aware,"The sugar content per 100g in P'tits grains choco is 23 g (Product 1, P'tits grains choco).",,1832,1.0,3222475413483|3297880000801|5410056011212|7613035449626|3421371518081,True,91,RELEVANT,The answer provides the exact sugar content per 100g for P'tits grains choco.
+How much fat is in Iberitos Pastel de cabracho per 100g?,8436561578795,source_aware,Iberitos Pastel de cabracho contains 6.8 g of fat per 100 g (Product 1).,,2087,1.0,8436561578795|8437002869793|8437019840020|3560071489441|8437003894275,True,72,RELEVANT,The generated answer fully answers the question by providing the specific amount of fat in Iberitos Pastel de cabracho per 100g.
+How many grams of protein are in 100g of Veganes Kassler by Meetlyke?,4032277007044,source_aware,The Veganes Kassler by Meetlyke contains 25.1 grams of protein per 100 grams.,,1590,1.0,4032277007044|4251725802189|9100000806112|5021320168343|8718300875823,True,77,RELEVANT,The generated answer fully answers the question by providing the exact amount of protein in 100g of Veganes Kassler by Meetlyke.
+Is there any honey in Oscar Mayer's Deli Fresh Slow Roasted Roast Beef?,0044700030394,source_aware,"Yes, there is honey in Oscar Mayer's Deli Fresh Slow Roasted Roast Beef. The ingredients list for this product includes ""honey.""",,1434,,0044700030394|20304652|4056489601340|4088600502410|4047247564342,True,128,RELEVANT,The generated answer fully addresses the question by confirming the presence of honey in the product's ingredients.
+Which granola mixes contain whey protein concentrate?,0850047220875,source_aware,"The granola mixes that contain whey protein concentrate are:
+
+1. **Protein nut granola almond butter** by Nutrail - Ingredients include ""whey protein concentrate"" and ""protein crisps (whey protein concentrate, tapioca starch).""
+
+The other products listed do not contain whey protein concentrate.",,1578,,3830059011156|0196633820167|5600380896139|0016000234222|0850047220875,True,295,RELEVANT,The generated answer fully identifies a granola mix that contains whey protein concentrate and clarifies that other products do not contain it.
+What is the protein content per 100g in Simpl's cured dry sausage?,5400101034570,source_aware,The protein content per 100g in Simpl's cured dry sausage (SIMPL Saucisson sec pur porc) is 23 g. This information is sourced directly from the product's nutritional data.,,1723,1.0,5400101034570|5400101009509|3272551000403|4056489914181|4008460245500,True,171,RELEVANT,The generated answer fully provides the protein content per 100g in Simpl's cured dry sausage.
+How many calories are in 100 grams of Coop Fine Food Gelato Fior di Latte?,7610845342437,source_aware,The calorie content in 100 grams of Coop Fine Food Gelato Fior di Latte is 211 kcal (Product 1).,,1355,1.0,7610845342437|8002330134037|8001120709646|8001120929532|8001120914477,True,96,RELEVANT,The generated answer fully answers the question by providing the exact calorie content in 100 grams of the specified gelato.
+Does Franprix's Cidre de Normandie brut contain any allergens?,3263855096186,source_aware,"Franprix's Cidre de Normandie brut contains no allergens declared (Product 1). The ingredients include ""Fruits à cidre de Normandie"" and ""sulfites,"" but no allergens are specified.",,1567,,3263855096186|3596710267576|3270160680856|5425032930005|3612645629019,True,180,RELEVANT,"The generated answer correctly states that there are no declared allergens in Franprix's Cidre de Normandie brut, fully addressing the question."
+Are there any salty snacks that contain 35g of fat per 100g?,28079484,source_aware,"Yes, there is a salty snack that contains 35g of fat per 100g. 
+
+The product is:
+- Kartoffelchips mit Salz (Brand: Penny) with 35g of fat per 100g.
+
+The other products listed do not meet the criteria:
+- Snaktastic (Brand: Snack Day) has 26.8g of fat per 100g.
+- Lancashire Crisps Sea Salt (Brand: Fiddler’s) has 28.1g of fat per 100g.
+- Snacks goût bacon (Brand: Netto) has 24g of fat per 100g.
+- Chips (Brand: Sun Chips) has 21.2g of fat per 100g.",,1469,,4056489902461|5060255520062|28079484|3250390475071|0008400048028,True,448,RELEVANT,The answer correctly identifies a salty snack product that meets the specified criteria of containing 35g of fat per 100g.
+What are the ingredients in Stubb's Original Legendary Bar-B-Q Sauce?,0734756000020,source_aware,"The ingredients in Stubb's Original Legendary Bar-B-Q Sauce are: tomato puree (water, tomato paste), distilled vinegar, sugar, molasses, salt, spices (including black pepper, paprika, chili pepper), corn starch, brown sugar, and contains less than 0.5% of onion, garlic, guar gum (thickener), xanthan gum (thickener), and natural flavor (including hickory smoke) (Product 1).",,1403,1.0,0734756000020|0858183005608|0074609092995|0013409351758|3760197944071,True,375,RELEVANT,"The generated answer fully lists the ingredients in Stubb's Original Legendary Bar-B-Q Sauce, directly answering the question."
+How many calories are there in 100g of Tesco Chunky Chocolate Cookies?,5054402920805,source_aware,"Tesco Chunky Chocolate Cookies contain 490 kcal per 100g. This information is specifically attributed to the product ""Chunky Chocolate Cookies"" from Tesco.",,1671,1.0,5054402920805|5063089267325|4088600184234|5057753599928|0044000053895,True,155,RELEVANT,The generated answer fully addresses the question by providing the correct number of calories in 100g of Tesco Chunky Chocolate Cookies.
+What are the ingredients in Picard's breaded chicken sticks?,3270160202461,source_aware,"The ingredients in Picard's breaded chicken sticks (Bâtonnets de poulet panés) are:
+
+- Preparation à base de viande de poulet [filet de poulet (origine : France*) 38.9%, viande de poulet (origine : France*) 9.7%, eau, peau de poulet 3.6%, protéines de blé (gluten), sel, huile de tournesol, gélifiant : algues Euchema transformées]
+- Panure 32% [chapelure (farine de blé (gluten), levure, sel, épices en poudre (curcuma, paprika)), eau, farine de blé (gluten), semoule de blé dur (gluten), amidon de blé (gluten), gluten de blé, sel]
+- Huile de tournesol
+
+Allergens: gluten 
+
+This information is based on Product 1 from the provided context.",,2017,0.25,3270160202461|0060383206581|3270160207831|4061463887948|5391521362087,True,641,RELEVANT,"The generated answer fully lists the ingredients in Picard's breaded chicken sticks, including their proportions and allergen information."
+How many calories are there in a 100g serving of Crous's Triangle Comtois?,00013819,source_aware,"A 100g serving of Crous's Triangle Comtois contains 182 kcal. This information is sourced directly from Product 1, Triangle Comtois by Crous.",,2452,1.0,00013819|3256220064767|3292590801779|3250391870660|3263853004510,True,141,RELEVANT,The generated answer fully provides the calorie content for a 100g serving of Crous's Triangle Comtois.
+What is the shelf life of an unopened Pilos Milchreis?,4335619161481,source_aware,"The shelf life of an unopened Pilos Milchreis is indicated as ""mindestens haltbar bis: siehe Deckel,"" meaning it is best before a date specified on the lid. This specific date is not provided in the context, so the exact shelf life cannot be determined.",,1486,,4335619161481|8711200454655|4311596465064|4337256765183|42414957,True,253,RELEVANT,"The answer correctly states that the shelf life is indicated on the product, even though the specific date is not provided."
+Are there any artificial colors used in Skittles bite size candies?,0022000018847,source_aware,"Yes, Skittles Bite Size Candies contain artificial colors. According to the ingredient list for the product (Skittles Bite Size Candies, id: 0022000018847), it includes the following artificial colors: yellow 5 lake, blue 1 lake, yellow 6 lake, red 40 lake, yellow 6, red 40, and blue 1.",,1441,1.0,0022000018847|0012546014762|0810165015913|7616500913493|0057961026518,True,287,RELEVANT,The generated answer fully addresses the question by confirming the presence of artificial colors in Skittles Bite Size Candies and listing specific examples.
+Does Great Value Rosée Pasta Sauce contain any allergens?,0628915408539,source_aware,"Yes, Great Value Rosée Pasta Sauce contains allergens. It specifically contains milk, as stated in the product information. Additionally, it may contain traces of sesame, eggs, fish, soy, wheat, and mustard, but these are not confirmed allergens, as they are marked as ""may contain.""",,1615,,0628915408539|0194346052912|0810159831345|0078742346342|4088700011638,True,283,PARTLY_RELEVANT,"The answer mentions that the sauce contains milk as an allergen but does not clarify the status of the other potential allergens, which makes it incomplete."
+How much fat is contained in El Cencerro's Queso de oveja semicurado per 100g?,8480017316042,source_aware,"El Cencerro's Queso de oveja semicurado contains 37 g of fat per 100 g, as detailed in Product 1.",,1194,1.0,8480017316042|8422823210213|20266523|8413100611229|8480013072836,True,97,RELEVANT,The generated answer fully provides the requested information about the fat content in El Cencerro's Queso de oveja semicurado.
+What brand offers an assortment of biscuits that includes dark and white chocolate?,3596710556144,source_aware,"The brand that offers an assortment of biscuits that includes dark and white chocolate is ASDA with their product ""Belgian White Chocolate & Pretzel Cookies,"" which contains white chocolate chunks, and Spar with their product ""spar dark chocolate biscuits,"" which contains dark chocolate.",,1683,,8710671003232|5063089267325|4068261088294|4088600184234|5000254021535,False,288,PARTLY_RELEVANT,"The answer correctly mentions brands ASDA and Spar that offer biscuits with dark and white chocolate, but does not explicitly state if they have a single assortment that includes both types of chocolate."
+Is there any sugar in Schnucks reduced fat cheddar cheese?,0041318581386,source_aware,Schnucks reduced fat cheddar cheese contains 0 g of sugars as stated in the Sharp Cheddar Cheese product (id: 0041318581386).,,1331,,0041318581386|0041318530094|0078742267487|0041250670056|4311501486238,True,125,RELEVANT,"The answer clearly states that Schnucks reduced fat cheddar cheese contains 0 g of sugars, directly addressing the question."
+Does Sveltesse contain any sugars or salt?,8410100012636,source_aware,Sveltesse contains no sugars or salt. This is based on the nutritional information which states that it has 0 g of sugars and 0 g of salt per 100 g.,,1291,,8410100012636|9000295871898|20889463|0022000018847|4006824000970,True,148,RELEVANT,The generated answer fully addresses the question by confirming that Sveltesse contains no sugars or salt and provides specific nutritional information to support the claim.
+Does Vanille Traum Ice Cream Style Orange Caprio contain any allergens?,4002971395907,source_aware,"Yes, Vanille Traum Ice Cream Style Orange Caprio contains the allergen milk, as stated in the allergen information for this product. No other allergens are declared for this product, and specific labels indicating additional allergens are not provided.",,2819,,4002971395907|4061458109611|6111178000519|3560071489441|3564700882269,True,252,RELEVANT,The generated answer fully addresses the question by confirming the presence of milk as an allergen and stating that no other allergens are declared.
+"How many calories are in Organic Girl's smoothie, green cider?",0840469110045,source_aware,"The calories in Organic Girl's smoothie, green cider are 30.6489 kcal per 100g, according to Product 1 (Organic girl, smoothie, green cider). 
+
+Interpretation: To find the calories for a full bottle (296 ml), the total energy would be approximately 90.8 kcal, since 1 bottle is approximately 296 g. However, the exact calorie value for the full serving size is not declared.",,1790,0.25,0840469110045|4038857130010|4260428140610|0032601706326|0013764001244,True,374,PARTLY_RELEVANT,The answer provides the calorie content per 100g but does not explicitly confirm the total calorie count for the entire serving size of the smoothie.
+How many calories are in 100g of AH rundvleessalade?,8710400042907,source_aware,"The AH Rundvleessalade contains 163 kcal per 100g, as stated in the nutrition information for Product 1 (Rundvleessalade).",,2204,1.0,8710400042907|8719587095478|8719587095546|8710400481713|8719587132531,True,122,RELEVANT,The generated answer fully addresses the question by providing the exact calorie content for 100g of AH rundvleessalade.
+How many calories are in 100g of Breaded Chicken Nuggets by Marks & Spencer?,00595445,source_aware,The Breaded Chicken Nuggets by Marks & Spencer contain 184 kcal per 100g (Product 1).,,1485,1.0,00595445|00308403|00324922|00491426|00894418,True,85,RELEVANT,The generated answer fully provides the calorie content of the Breaded Chicken Nuggets by Marks & Spencer as requested in the question.
+What are the main ingredients in Tesco's Thai Inspired Chicken Curry Wrap?,03434581,source_aware,"The main ingredients in Tesco's Thai Inspired Chicken Curry Wrap are as follows: Water, Chicken Breast (23%), Wheat Flour, Spinach, Coconut Milk, Rapeseed Oil, Shallot, Palm Oil, Cornflour, Green Chilli Purée, Sugar, Spirit Vinegar, Tomato Powder, Spices, Salt, Lemongrass, White Wine Vinegar, Coriander, Thai Basil, Wheat Fibre, Lime Leaves, Pasteurised Egg Yolk, Galangal, Ginger Purée, Sunflower Oil, Red Bell Pepper, Concentrated Lime Juice, Black Pepper, Citrus Fibre, Garlic Powder, Basil, Mustard Flour, and White Pepper. This information is sourced from Product 1, the Thai Inspired Chicken Curry Wrap by Tesco.",,1950,1.0,03434581|5057753892357|5010525363721|5400101048560|5053947788154,True,619,RELEVANT,"The generated answer fully lists the main ingredients in Tesco's Thai Inspired Chicken Curry Wrap, adequately addressing the question."
+Is there a cheese option that has zero sugars along with lower fat?,3228023120056,source_aware,"Yes, there is a cheese option that has zero sugars along with lower fat:
+
+1. **Fromage allégé en matière grasse** (Coeurmandie) has:
+   - Sugars: 0 g
+   - Fat: 11 g
+
+2. **Untable Neufchatel light** (tregar) also has:
+   - Sugars: 0 g
+   - Fat: 2.6 g
+
+Both products meet the criteria of having zero sugars, with the Untable Neufchatel light having the lower fat content at 2.6 g.",,1400,1.0,3228023120056|4061459799590|5010525116204|7793913001754|0041250670056,True,378,RELEVANT,The generated answer fully addresses the question by providing specific cheese options that have zero sugars and lower fat content.
+Is Govinda's Rote Bete Pulver suitable for a vegan diet?,4038507006191,source_aware,"Yes, Govinda's Rote Bete Pulver is suitable for a vegan diet. The ingredients are listed as ""100 % reines Bio Rote Bete-Pulver,"" and there are no declared allergens or animal-derived ingredients.",,1586,,4038507006191|4056489460312|4061458095228|5010034013544|4260718291398,True,195,RELEVANT,The generated answer fully addresses the question by confirming that Govinda's Rote Bete Pulver is suitable for a vegan diet and provides supporting details about the ingredients.
+Are Greenforce nuggets suitable for a vegetarian diet?,4260322212444,source_aware,"Yes, Greenforce nuggets (Vegane Nuggets) are suitable for a vegetarian diet. They are labeled as vegetarian and vegan, and their ingredients do not include any animal-derived products. The ingredients consist of 69% pea protein products, among other plant-based components, and no allergens have been declared.",,1879,0.0,4260322212444|8445290707352|4335619249493|8445290062208|4026584143618,True,310,RELEVANT,The generated answer fully addresses the question by confirming that Greenforce nuggets are suitable for a vegetarian diet and providing details about their ingredients.
+Is there any added sugar in Exotic Food Kokoscreme?,8853662002125,source_aware,"Exotic Food Kokoscreme contains 2.7 g of sugars per 100 g, which indicates that there is added sugar, given that sugars are part of the carbohydrate content. However, the label does not specify whether this sugar is added or naturally occurring. 
+
+Interpretation: The product does not declare any added sugars specifically, but the presence of sugars suggests that there may be sweetening components, which often include added sugars.",,1394,1.0,8853662002125|4000194332204|4260402480862|4337185605048|3760383181815,True,434,PARTLY_RELEVANT,"The answer provides information about the sugar content but does not definitively confirm whether it contains added sugars, leaving the question partially unanswered."
+How many calories are there in 100g of AH's witlof and apple salad?,8718906114340,source_aware,"The AH witlof and apple salad, specifically named ""appel witlof groene salade"" (Product 1), contains 111.642 kcal per 100g.",,1940,1.0,8718906114340|8719587095546|8710400481713|8718906151758|8710400397816,True,123,RELEVANT,"The generated answer provides the exact calorie content of the AH witlof and apple salad per 100g, fully addressing the question."
+What are the ingredients in Metamucil's sugar-free orange flavor fiber therapy?,0037000308577,source_aware,"The ingredients in Metamucil's sugar-free orange flavor fiber therapy (Product 1) are: 
+
+- Psyllium husk (plantago ovata)
+- Maltodextrin
+- Citric acid
+- Orange flavor
+- Aspartame
+- Yellow 6
+
+Allergens: none declared.",,1390,1.0,0037000308577|0037000978480|7613269295853|0198168959220|50354009,True,216,RELEVANT,The generated answer fully lists the ingredients in Metamucil's sugar-free orange flavor fiber therapy as requested.
+What are the main ingredients in Magic mix snacks?,5010511479535,source_aware,"The main ingredients in Magic Mix snacks are not listed in the provided data as the ingredients are represented as ""l42617 end mar2022 10771213:22"" which does not specify any actual ingredients. 
+
+Therefore, I cannot provide the main ingredients for Magic Mix snacks.",,1831,1.0,5010511479535|0016000214972|0016000138803|0196633976796|0873983005047,True,267,RELEVANT,The generated answer correctly indicates that the main ingredients for Magic Mix snacks are not available in the provided data.
+What is the calorie count per 100g for the Ensalada Ligera from LM Sandwich?,8437000199038,source_aware,"The calorie count per 100g for the Ensalada Ligera from LM Sandwich is 177 kcal, as stated for Product 1 (ENSALADA LIGERA LM).",,1736,1.0,8437000199038|7804097011016|8480024819086|7804610853772|4056489140320,True,126,RELEVANT,The generated answer provides the exact calorie count per 100g for the Ensalada Ligera from LM Sandwich.
+Does Nestlé Sinlac contain any sugar?,7613037019261,source_aware,"Yes, Nestlé Sinlac contains sugar. According to the product label, it has 18 g of sugar per 100 g.",,1695,1.0,7613037019261|7613036519960|7613033582677|7613033068959|0055000407106,True,98,RELEVANT,The answer clearly states that Nestlé Sinlac contains sugar and provides specific information about the amount of sugar per 100 g.
+How much fat is in the Kuljanka borschtsch with beef?,20831844,source_aware,"The Kuljanka borschtsch with beef contains 2.3 g of fat per 100 g (from Product 1: Borschtsch mit Rindfleisch, Kuljanka).",,1702,1.0,20831844|9100000714660|4061458014045|3250391139804|5900397734357,True,121,RELEVANT,The generated answer provides the exact amount of fat in Kuljanka borschtsch with beef as requested.
+What are the ingredients in President's Choice chicken nuggets?,0060383002251,source_aware,"The ingredients in President's Choice chicken nuggets (Pub chicken nuggets) are as follows:
+
+- Chicken
+- Water
+- Enriched wheat flour
+- Vegetable oil
+- Whole wheat flour
+- Corn flour
+- Soy protein isolate
+- Rice starch
+- Corn starch
+- Modified corn starch
+- Salt
+- Sugar
+- Soy protein concentrate
+- Yeast
+- Wheat starch
+- Wheat gluten
+- Paprika
+- Annatto
+- Spice extract
+- Soy sauce powder
+- Onion powder
+- Baking powder
+- Chicken fat
+- Spice
+- Garlic powder
+- Flavour
+- Yeast extract
+- Dried chicken stock
+- Soy sauce
+
+This information is sourced from Product 1 (Pub chicken nuggets, President's Choice).",,1670,,0060383002251|0060249102613|0072745834578|0061483065146|0072745806223,True,605,RELEVANT,"The generated answer fully lists the ingredients in President's Choice chicken nuggets, accurately addressing the question."
+What are the ingredients in Praise's olive oil vinaigrette with roasted garlic?,9310047216847,source_aware,"The ingredients in Praise's olive oil vinaigrette with roasted garlic (Product 1) are as follows:
+
+- Water
+- Olive oil (15%)
+- Sunflower oil (with antioxidant 320)
+- White vinegar
+- Roasted garlic (4%, with food acid 330)
+- Sugar
+- Free range whole egg
+- Salt
+- Garlic
+- Buttermilk powder
+- Onion
+- Vegetable gum (415 from soy)
+- Food acid (330)
+- Black pepper
+- Natural flavour (milk)
+
+Allergens include eggs, milk, and soybeans.",,1464,0.167,9310047216847|0011110151728|3700238361993|3265475522007|5060178073713,True,430,RELEVANT,The generated answer fully lists the ingredients in Praise's olive oil vinaigrette with roasted garlic and includes allergen information.
+How many calories are there per 100g in Pouce's assortment de biscuits?,3596710556144,source_aware,"The Pouce's ""Assortiment de biscuits"" contains 485 kcal per 100g.",,1675,1.0,3596710556144|3256224060499|5020000168000|3449610763009|3250391714407,True,65,RELEVANT,The generated answer fully provides the calorie content per 100g for Pouce's assortment de biscuits.
+How much fat is in 100g of Mortadelle from Il Gusto Deli Italia?,2007030026572,source_aware,The Mortadelle from Il Gusto Deli Italia contains 24 g of fat per 100 g (Product 1).,,1703,1.0,2007030026572|8016451151507|8015673029694|3512690002075|0048176560027,True,84,RELEVANT,The generated answer fully provides the fat content of Mortadelle from Il Gusto Deli Italia as requested.
+Are there any allergens in Les Petits carres Chocolat et sel de Guerande?,3226219013113,source_aware,"Yes, Les Petits carres Chocolat et sel de Guerande contains the following allergens: eggs, gluten, and milk (Product 1).",,1722,,3226219013113|3760231780238|3421371518081|3258590002509|5410976321019,True,120,RELEVANT,The answer correctly identifies the allergens present in Les Petits carres Chocolat et sel de Guerande.
+How many calories are in 100g of Chef Select guacamole?,4056489242079,source_aware,"The Chef Select guacamole, specifically the ""Guacamole Avocado-Dip mild,"" contains 147 kcal per 100g.",,1545,1.0,4056489242079|0616112031506|4304218434791|8032523372489|20755638,True,101,RELEVANT,The generated answer fully addresses the question by providing the specific calorie content of Chef Select guacamole per 100g.
+How much fat is in Findus' cauliflower and cheese medallions?,8434702001034,source_aware,The fat content in Findus' medallones de coliflor y queso (Coliflor y queso) is 14 g per 100 g. This information is specifically attributed to Product 2.,,1407,1.0,5010251764670|8434702001034|7613035915695|8057018221998|7613030006190,True,153,RELEVANT,The generated answer fully provides the fat content of Findus' cauliflower and cheese medallions.
+What dietary supplement by Almased contains 52.2g of protein per 100g?,4250529300006,source_aware,The dietary supplement by Almased contains 52.2g of protein per 100g. This information is sourced from Product 1 (Almased).,,1457,,4250529300006|5060474941709|4061459425918|0039978006554|4036554703520,True,123,RELEVANT,The generated answer fully answers the question by providing the specific information about the dietary supplement by Almased containing 52.2g of protein per 100g.
+How much protein does each 100g serving of ESN Strawberry Yoghurt Flavour contain?,4250519677057,source_aware,"The protein content per 100g serving for the ESN Strawberry Yoghurt Flavour is 33 g (as per Product 1). 
+
+For comparison, the protein content per 100g serving for other products is as follows:
+- ESN Designer Whey Strawberry Cream: 78 g (Product 2)
+- GetPRO Vanilla Cookie Flavour Drinking Yoghurt: 8.3 g (Product 3)
+- Plain Greek Yogurt with Strawberry Fruit Spread: 8 g (Product 4)
+- Myprotein Milk Protein Smooth Strawberry Cream Flavor: 76 g (Product 5)
+
+To summarize:
+- **ESN Strawberry Yoghurt Flavour**: 33 g protein per 100g
+- **ESN Designer Whey Strawberry Cream**: 78 g protein per 100g
+- **GetPRO Vanilla Cookie Flavour Drinking Yoghurt**: 8.3 g protein per 100g
+- **Plain Greek Yogurt with Strawberry Fruit Spread**: 8 g protein per 100g
+- **Myprotein Milk Protein Smooth Strawberry Cream Flavor**: 76 g protein per 100g",,2285,1.0,4250519677057|4250519665573|5060360507514|0007789047893|5055534307281,True,831,RELEVANT,The generated answer accurately states the protein content per 100g serving for the ESN Strawberry Yoghurt Flavour as 33 g.
+How many calories are there in 100 grams of Tyson Grilled Sweet Teriyaki Chicken Thigh Fillets?,0023700045287,source_aware,The Tyson Grilled Sweet Teriyaki Flavored Chicken Thigh Fillets contain 166.667 kcal per 100 grams. This information is taken from Product 1.,,1358,1.0,0023700045287|0023700025104|0023700060129|0023700014856|0023700026866,True,141,RELEVANT,"The generated answer provides the accurate calorie content of 166.667 kcal per 100 grams for Tyson Grilled Sweet Teriyaki Chicken Thigh Fillets, fully addressing the question."
+Does Gerber's Mealtime for Baby contain wheat as an allergen?,0015000073282,source_aware,"Yes, Gerber's Mealtime for Baby power blend Turkey Rice contains wheat as an allergen. It lists ""WHOLE WHEAT FLOUR"" in its ingredients and states that it ""CONTAINS: WHEAT."" This information is found in Product 1.",,1662,,0015000073282|0015000070519|36457953|7616100581535|0015000070212,True,212,RELEVANT,The generated answer fully addresses the question by confirming the presence of wheat as an allergen in Gerber's Mealtime for Baby.
+How many calories are there in 100 grams of madeleines pur beurre?,3286790100350,source_aware,"The product ""8 madeleines pur beurre"" by Astruc patisserie contains 464 kcal per 100 grams. 
+
+For reference, other madeleine products show similar calories:
+- ""4 madeleine chocolats"" by Biscuiterie Jeannette also has 464 kcal per 100 grams.
+- ""Les Madeleines Coquilles"" by Casino has 414 kcal per 100 grams.
+- ""Madeleines orange talonnées de chocolat"" by Biscuits Mistral contains 415 kcal per 100 grams.
+- ""Madeleines maxi pépites chocolat 50% remboursés"" by Ker Cadelac has 427 kcal per 100 grams.
+
+In summary, the specific calorie content for ""8 madeleines pur beurre"" is 464 kcal per 100 grams.",,1804,1.0,3286790100350|3701005300047|3222475326547|3171910601070|3259426033599,True,598,RELEVANT,"The generated answer provides the exact calorie content of madeleines pur beurre, directly addressing the question about calories per 100 grams."
+Is there soy in Iceland's Katsu Chicken Breast Fillets?,5010482789572,source_aware,"Yes, there is soy in Iceland's Katsu Chicken Breast Fillets. The ingredients list includes ""Soy Beans"" as part of the Katsu Sauce. Additionally, it is marked as containing allergens: soybeans. This information is sourced from Product 1, Breaded Katsu Chicken Breast Fillets.",,1844,,5010482789572|5010482833879|5010482632809|0196633934901|5057172606269,True,274,RELEVANT,The generated answer fully addresses the question by confirming the presence of soy in the product and providing details about the ingredients and allergen information.
+What are the ingredients in Carrefour's Papillotes Tattoo Chocolat au lait?,3560071301170,source_aware,"The ingredients in Carrefour's Papillotes Tattoo Chocolat au lait are as follows:
+
+- Sucre
+- Lait entier en poudre
+- Beurre de cacao
+- Graisses végétales (palmiste, palme)
+- Pâte de cacao
+- Céréales croustillantes (farine de riz, farine de blé, gluten de blé, sucre, malt de blé, émulsifiant : lécithines, sel)
+- Lactose
+- Pâte de noisettes
+- Pâte d'amandes
+- Lactosérum en poudre
+- Huile végétale de tournesol
+- Émulsifiant : lécithines
+- Cacao maigre en poudre
+- Arômes
+- Lait écrémé en poudre
+- Matière grasse de lait anhydre
+
+This information is sourced from Product 1, Papillotes Tattoo Chocolat au lait by Carrefour.",,1766,,3560071301170|3245412418020|3270190182603|5400101223776|3664346300216,True,622,RELEVANT,"The generated answer fully lists the ingredients of Carrefour's Papillotes Tattoo Chocolat au lait, directly addressing the question."
+Is there any sulphur dioxide in the pork hamburger by Carnes Portugal?,5608247000941,source_aware,"Yes, the pork hamburger by Carnes Portugal (Hambúrguer Suíno) contains sulphur dioxide, as it includes preservatives E221 and E224, which indicate the presence of sulphites. The allergens section explicitly lists sulphur dioxide and sulphites as allergens.",,1553,,5608247000941|233039790000100229002299|8410320001496|4056489140320|3018170403139,True,256,RELEVANT,The answer clearly confirms the presence of sulphur dioxide in the pork hamburger by identifying specific preservatives and citing the allergens section.
+Can I find a smoked fish product that contains only salmon and salt?,8718265753600,source_aware,"Yes, you can find a smoked fish product that contains only salmon and salt. The product that meets this criterion is:
+
+- **Product 4**: Saumon atlantique (Salmo salar) from Migros. 
+  - Ingredients: Saumon Atlantique (Salmo salar) sel de cuisine.
+
+All other products may contain additional ingredients, such as sugar or other seasonings.",,1406,1.0,8413080009474|3033610074861|3038680055765|7613269481560|5000169473795,False,337,RELEVANT,The answer fully addresses the question by confirming the availability of a smoked fish product that contains only salmon and salt.
+What is the protein content per 100g in Cora's Cocktail de Graines Salées?,3257980529046,source_aware,"The protein content per 100g in Cora's Cocktail de Graines Salées is 22.8 g (Cora, Product 1).",,1357,1.0,3257980529046|3257987675753|4333465847559|6007812003384|3222472454625,True,94,RELEVANT,The answer accurately provides the protein content per 100g for Cora's Cocktail de Graines Salées.
+Are there any gluten-containing ingredients in Dobry Chrup by Lajkonik?,5900320011036,source_aware,"Yes, Dobry Chrup by Lajkonik contains gluten-containing ingredients. The ingredients list includes ""gluten pszenny"" (wheat gluten) and ""Mąka pszenna pełnoziarnista"" (whole wheat flour), which is derived from wheat.",,1659,,5900320011036|20756215|5901204000733|5902332104355|5900300512256,True,214,RELEVANT,The answer correctly identifies the presence of gluten-containing ingredients in Dobry Chrup by Lajkonik and specifies them.
+Does LM Sandwich's light salad contain gluten?,8437000199038,source_aware,"Yes, LM Sandwich's light salad, ""ENSALADA LIGERA LM,"" contains gluten. The ingredient ""PICATOSTES,"" which is made from ""Harina de trigo,"" explicitly states that it contains gluten. Additionally, the product's allergen information lists gluten as an allergen.",,2452,,8437000199038|00680158|3700009281246|00028035|4061459956573,True,258,RELEVANT,The answer fully addresses the question by confirming the presence of gluten in LM Sandwich's light salad and providing specific ingredient details.
+Is there any milk allergen in the Desserts Collection?,5390394010545,source_aware,"Yes, the Desserts Collection contains milk allergens. The specific allergen listed is ""milk,"" as per Product 1 (Desserts Collection).",,2098,,5390394010545|3415581162714|3033491987373|0036632072993|29065165,True,133,RELEVANT,The generated answer fully addresses the question by confirming the presence of milk allergens in the Desserts Collection.
+What is the calorie count per 100g for the feta and olive salad by M&S Food?,00153782,source_aware,The calorie count per 100g for the Feta and Olive Salad by M&S Food is 136 kcal (Product 1).,,1668,1.0,00153782|00920957|29456871|29087259|29339792,True,92,RELEVANT,The generated answer fully provides the requested calorie count per 100g for the Feta and Olive Salad by M&S Food.
+What are the ingredients in Paysan Breton's Fromage Le Petit Moulé Nature?,3236240070702,source_aware,"The ingredients in Paysan Breton's Fromage Le Petit Moulé Nature are: babeurre, crème et lait écrémé pasteurisés, sel, babeurre déshydraté, protéines laitières, and ferments lactiques (Product 1).",,1216,,3236240070702|3701002401686|2006050128396|3273220441404|3060921463060,True,196,RELEVANT,The generated answer fully lists the ingredients in Paysan Breton's Fromage Le Petit Moulé Nature.
+What are the ingredients in PICARD's cashew nuts with pepper and salt?,3270160854400,source_aware,"The ingredients in PICARD's cashew nuts with pepper and salt (Noix de cajou, poivre et sel) are: 
+
+- Noix de cajou (cashew nuts)
+- Poivre (pepper)
+- Sel (salt)
+- Stabilisant: gomme d'acacia (stabilizer: acacia gum)
+
+This information is sourced from Product 1. Allergen information indicates none are declared.",,1541,,3270160854400|3564700011270|3270160742257|5060367181823|0196633976796,True,309,RELEVANT,"The generated answer fully provides the ingredients of PICARD's cashew nuts with pepper and salt, along with relevant allergen information."
+Is there any goat cheese in Rana's pasta meals?,8001665725910,source_aware,"Yes, Rana's pasta meal ""FROMAGE DE CHÈVRE & OIGNONS CARAMÉLISÉS"" contains goat cheese (fromage de chèvre) at 6% in the ingredients. 
+
+Other products listed do not contain goat cheese.",,1617,1.0,8001665725910|80784258|8001665710299|8001665704007|8001665124010,True,183,RELEVANT,"The answer clearly states that one of Rana's pasta meals contains goat cheese and specifies the ingredients, fully addressing the question."
+How much fat is in a serving of Sun Chips?,0008400048028,source_aware,"A serving of Sun Chips (1.5 oz or approximately 42.5 g) contains fat values that are not explicitly declared in the source data. However, the nutrition per 100g indicates that it contains 21.1644 g of fat. Since specific serving size nutritional information is not provided, I cannot confirm the exact fat content for a 1.5 oz serving based on the available data.",,1334,0.75,0008400048028|4260353173493|0850059916018|0071026005201|8906076133265,True,363,RELEVANT,"The answer correctly states that the specific fat content for a serving of Sun Chips is not available in the source data, fulfilling the requirement of the question."
+What vegan nuggets are made by Soto?,4026584143618,source_aware,"The vegan nuggets made by Soto are called **Végé Nuggets**. They contain ingredients such as tofu, carrots (15%), corn flour (14%), onions (12%), and several other components. 
+
+Information about allergens indicates that they may contain traces of gluten and sesame. The product Nutri-Score is B, and the nutrition per 100g includes 233 kcal, 10.3 g of fat, and 6.9 g of protein.",,2013,1.0,4026584143618|8445290707352|8445290062208|4335619249493|4260019320490,True,379,RELEVANT,The generated answer fully addresses the question by providing the name of the vegan nuggets made by Soto and detailing their ingredients and nutritional information.
+Are there any sugars in Planet's hulled hemp seeds?,4779035851104,source_aware,"Planet's hulled hemp seeds, identified as ""Graines de chanvre"" (Product 3), contain 1.4 g of sugars per 100 g.",,1364,1.0,0851770008877|4081234701853|4779035851104|0079893114378|0850047220059,True,110,RELEVANT,"The generated answer provides the specific amount of sugars in Planet's hulled hemp seeds, directly addressing the question."
+What are the main ingredients in Picard's chocolate mini-merveilleux?,3270160822720,source_aware,"The main ingredients in Picard's chocolate mini-merveilleux (6 Mini-Merveilleux au chocolat) include:
+
+- Crème liquide (29.9%) (cream, stabilizer: carrageenan)
+- Copeau de chocolat (22.4%) (sugar, cocoa mass, cocoa butter, emulsifier: soy lecithin)
+- Chocolat noir (12.7%) (cocoa mass, sugar, cocoa butter, emulsifier: soy lecithin, natural vanilla flavor)
+- Sucre (sugar)
+- Sucre liquide (liquid sugar)
+- Jaune d'œuf (4.4%) (liquid, pasteurized)
+- Blanc d'œuf (3.9%) (liquid, pasteurized)
+- Lait entier (whole milk)
+- Crème fraîche épaisse (thick cream)
+- Eau (water)
+- Chocolat en poudre (0.8%) (sugar, cocoa powder)
+- Cacao en poudre (cocoa powder)
+- Sirop de glucose en poudre (glucose powder)
+- Cacao maigre en poudre (defatted cocoa powder)
+- Gélifiant (pectins)
+
+These ingredients were taken from Product 1.",,2231,0.429,3270160822720|3270160827244|3421371518081|7622210333179|0215419016409,True,814,RELEVANT,"The generated answer fully lists all the main ingredients in Picard's chocolate mini-merveilleux, accurately addressing the question."
+What is the protein content in Mon Cordon bleu de dinde by Royal Bernard?,3276280086332,source_aware,"The protein content in ""Mon Cordon bleu de dinde"" by Royal Bernard is 20 g per 100g (Product 1).",,2114,1.0,3276280086332|3378740534787|3350030141240|3276288400017|3266980517144,True,96,RELEVANT,The generated answer fully answers the question by providing the specific protein content of the product in question.
+What are the main ingredients in AH's Salade Specialiteit RUNDVLEES?,8719587095478,source_aware,"The main ingredients in AH's Salade Specialiteit RUNDVLEES (Product 1) are:
+
+- 43% aardappel
+- Groente (wortel, ui, doperwt)
+- 11% rundvlees
+- Plantaardige olie (raap, zonnebloem)
+- Water
+- Augurk
+- Suiker
+- Zilverui
+- Zout
+- Vrije-uitloopeigeel
+- Azijn
+- Zetmeel (maïs, aardappel)
+- Conserveermiddel (E202, E211, E250, E223)
+- Kruiden
+- Voedingszuur (E270)
+- Gemodificeerd maïszetmeel
+- Verdikkingsmiddel (E415, E412)
+- Gistextract
+- Runder eiwit
+- Limoensapconcentraat
+- Specerijen (o.a. mosterd, selderij)
+- Aroma
+- Extract (rundvlees, peper, ui, savooiekool, pastinaak, wortel)
+- Maltodextrine
+- Natuurlijke aroma.
+
+This information is sourced from Product 1 (JAN SKO 09158 on Salade Specialiteit RUNDVLEES).",,2256,0.333,8719587095478|8710400042907|8710400481713|8718906151758|8719587095546,True,712,RELEVANT,"The generated answer fully lists the main ingredients in AH's Salade Specialiteit RUNDVLEES, addressing the question completely."
+"What is the fruit content in Bioitalia's organic apple, strawberry, and banana puree?",0661475202049,source_aware,"The fruit content in Bioitalia's organic apple, strawberry, and banana puree (Puree bio) is as follows:
+
+- Apple: 70%
+- Strawberry: 20%
+- Banana: 10%
+
+These percentages come directly from the ingredient list of the Bioitalia product (id: 0661475202049).",,1359,1.0,0661475202049|0810387023079|0890000001417|3256222006260|4058172843167,True,253,RELEVANT,"The generated answer fully provides the specific fruit content percentages for the Bioitalia organic puree, directly addressing the question asked."
+What are the nutritional values per 100g for the GREENLAND champignons?,26034515,source_aware,"The nutritional values per 100g for the GREENLAND champignons (Champignons 3. Wahl geschnitten) are as follows:
+
+- Energy: 19 kcal
+- Fat: 0.5 g
+- Saturated Fat: 0.1 g
+- Carbohydrates: 0.5 g
+- Sugars: 0.5 g
+- Fiber: 2.8 g
+- Protein: 2.1 g
+- Salt: 0.45 g
+
+This information is sourced from Product 1: ""Champignons 3. Wahl geschnitten"" by GREENLAND.",,1540,1.0,26034515|90364051|3263851505415|4005979000576|4056489514558,True,345,RELEVANT,"The generated answer provides complete nutritional values per 100g for the GREENLAND champignons, fully addressing the question."
+Does Loyd Grossman's Korma Sauce contain any allergens?,5000354159558,source_aware,"Yes, Loyd Grossman's Korma Sauce contains the following allergens: milk and nuts (specifically almonds). This information is attributed to the product: Loyd Grossman Korma Sauce.",,1658,,5000354159558|5011308505017|8712100698514|5011308505123|5052675000965,True,178,RELEVANT,"The answer correctly identifies the allergens present in Loyd Grossman's Korma Sauce, fully addressing the question."
+How many calories are in Aroy-D's sauce sucrée pimentée pour poulet?,0016229905248,source_aware,"The Aroy-D Sauce Sucrée Pimentée Pour Poulet contains 275 kcal per 100g, as stated in the nutrition information for that product.",,1171,1.0,0016229905248|8850344000868|0084909000545|9556041608770|3661945210014,True,129,RELEVANT,"The generated answer fully provides the calorie content of Aroy-D's sauce sucrée pimentée pour poulet, addressing the question completely."
+Is the micronized creatine powder from Sports Research gluten-free?,0023249093367,source_aware,"Yes, the Micronized Creatine Powder from Sports Research is gluten-free. This is stated in the product's labeling which indicates it is made from gluten-free ingredients (Product 1: Creatine Monohydrate).",,1165,,0023249093367|3608418898461|0198168959220|0850243008796|4260282014232,True,204,RELEVANT,The generated answer fully addresses the question by confirming that the micronized creatine powder is gluten-free and cites product labeling as evidence.
+Does the Praise deli style olive oil vinaigrette contain any allergens?,9310047216847,source_aware,"The Praise Deli style olive oil vinaigrette contains the following allergens: eggs, milk, and soybeans. This information is based on the product label for Praise Deli style Olive oil vinaigrette imp.",,1450,,9310047216847|4061458073318|8712100694509|5018374037091|3261415150101,True,199,RELEVANT,The generated answer fully addresses the question by listing the allergens contained in the Praise Deli style olive oil vinaigrette.
+How many calories are in Miel de fleurs des Cevennes by Verfeuille?,3527860000492,source_aware,Miel de fleurs des Cevennes by Verfeuille contains 327 kcal per 100g. This information is taken directly from Product 1 in the provided context.,,1198,1.0,3527860000492|3760121219527|3335440071035|3532090010098|20001056,True,144,RELEVANT,The generated answer fully provides the calorie content of Miel de fleurs des Cevennes by Verfeuille.
+How much fat is there in 100 grams of Edeka Dijon mustard?,4311501641996,source_aware,"In 100 grams of Edeka Dijon mustard (Dijon Senf), there is 12 g of fat (Product 1).",,1342,1.0,4311501641996|3250390632245|4104720014104|5051140474201|3760151014468,True,83,RELEVANT,The generated answer fully provides the amount of fat in 100 grams of Edeka Dijon mustard.
+What sweet snacks from Astruc Patisserie contain eggs and gluten?,3286790100350,source_aware,"The sweet snacks from Astruc Patisserie that contain eggs and gluten are:
+
+1. **8 madeleines pur beurre**
+   - Contains: Eggs and Flour (which contains gluten)
+
+No other sweet snacks from Astruc Patisserie were identified in the provided context. If you need information about more products or additional details regarding the snacks, please specify.",,2239,1.0,3760266590086|3286790100350|3567747050172|3596710556144|3270190182603,True,350,PARTLY_RELEVANT,"The answer identifies one sweet snack containing eggs and gluten but does not list any additional sweet snacks from Astruc Patisserie, leaving the response incomplete."
+Are there any added sugars in Fiddler's Lancashire Crisps Sea Salt?,5060255520062,source_aware,"Fiddler’s Lancashire Crisps Sea Salt contains 0.1 g of sugars per 100 g, which is not classified as an added sugar. Therefore, there are no added sugars in this product. This information is based solely on the label of Fiddler's Lancashire Crisps Sea Salt (Product 1).",,1536,1.0,5060255520062|4800449556450|5060040256992|5016451212270|5063089654552,True,268,RELEVANT,"The answer clearly states that there are no added sugars in the product based on its sugar content, fully addressing the question."
+How many calories are there in 100g of Harvest Crunch granola from Quaker?,0055577105429,source_aware,The Harvest Crunch granola from Quaker contains 444.444 kcal per 100g (Product 1).,,1511,1.0,0055577105429|0030000563328|4056489897606|0016000432697|0058449771807,True,82,RELEVANT,The answer provides the exact caloric content of Harvest Crunch granola per 100g as requested.
+What are the nutritional values per 100g for Planet brand hemp seeds?,4779035851104,source_aware,"The nutritional values per 100g for Planet brand hemp seeds (Product 1: Graines de chanvre) are as follows:
+
+- Energy: 606 kcal
+- Fat: 50 g
+- Saturated fat: 5.1 g
+- Carbohydrates: 3.3 g
+- Sugars: 1.4 g
+- Fiber: 3 g
+- Protein: 36 g
+- Salt: 0 g
+
+This information is taken directly from Product 1 (Graines de chanvre) by Planet.",,1182,1.0,4779035851104|0851770008877|5060427570338|0026200117713|5412500551534,True,325,RELEVANT,The generated answer fully provides the nutritional values per 100g for Planet brand hemp seeds.
+Can you tell me the ingredients of Calippo ice pops?,8711327580244,source_aware,"The ingredients of Calippo ice pops (Product 1) are as follows:
+
+- Water
+- Orange juice from concentrate (20%)
+- Glucose syrup
+- Sugar
+- Apple juice from concentrate (6%)
+- Fructose
+- Soluble fibre
+- Acidity regulator (citric acid)
+- Stabilisers (tara gum, locust bean gum)
+- Colours (paprika extract, curcumin)
+- Flavouring
+
+It is noted that Calippo may contain milk and is gluten free.",,2200,1.0,8711327580244|0041548000039|0058779399832|8719325110814|0069052129626,True,387,RELEVANT,"The generated answer fully lists the ingredients of Calippo ice pops, addressing the question completely."
+How many calories are in Friendly's Premium Ice Cream per 100g?,0029839403486,source_aware,"Friendly's Premium Ice Cream contains 202.247 kcal per 100g, according to the label data for Product 1 (Premium Ice Cream, Friendly's Manufacturing And Retail LLC).",,1442,1.0,0029839403486|0029839006809|0011110004635|0041000214899|0070640018338,True,164,RELEVANT,The generated answer fully provides the calorie content of Friendly's Premium Ice Cream per 100g.
+Does Biocoop's Confiture abricot extra contain any allergens?,3760121215321,source_aware,Biocoop's Confiture abricot extra contains no declared allergens (Product 1).,,1393,,3760121215321|3700910203450|7613312248416|5400113672784|3350060000340,True,77,RELEVANT,The answer fully addresses the question by stating that there are no declared allergens in Biocoop's Confiture abricot extra.
+What are the ingredients in the orange carrot vegetable coating?,4260749410003,source_aware,"The ingredients in the orange carrot vegetable coating are as follows:
+
+- **Product 1: Gemüsepanade Orange Carrot** - Ingredients: 50% KAROTTE (carrot), KARTOFFEL (potato), KURKUMAEXTRAKT (turmeric extract). 
+
+It may potentially contain traces of celery. No other products listed contain similar coatings.",,1420,0.0,4260749410003|4056489957263|0032601042004|01800074|0848860050861,True,305,RELEVANT,"The generated answer fully provides the ingredients for the orange carrot vegetable coating, including details about potential traces of other ingredients."
+Does HSN’s Evowhey & oats contain gluten?,5060326279400,source_aware,"Yes, HSN’s Evowhey & oats contains gluten. The product specifically lists ""Harina de avena (gluten)"" in its ingredients and is labeled with gluten as an allergen.",,1388,,5060326279400|5060179300092|5060343741423|8714443805246|0077890648445,True,162,RELEVANT,The generated answer clearly states that HSN’s Evowhey & oats contains gluten and supports this by referencing the ingredient list.
+What are the main ingredients in HSN's Evowhey & oats protein powder?,5060326279400,source_aware,"The main ingredients in HSN's Evowhey & oats protein powder (Product 1) are:
+
+- Harina de avena (gluten)
+- Proteína concentrada de suero de leche [emulgente (lecitina de girasol)]
+- Cacao desgrasado en polvo (10-12% de manteca de cacao) (de semillas de Theobroma cacao)
+- Aroma
+- Aroma natural
+- Cloruro sódico
+- Corrector de acidez (carbonato de potasio)
+- Espesante (goma xantana)
+- Edulcorante (sucralosa)
+
+Allergen present: gluten.",,1885,1.0,5060326279400|0041268215539|00001247|0041260381591|5056329509484,True,435,RELEVANT,The generated answer fully lists the main ingredients in HSN's Evowhey & oats protein powder along with relevant allergen information.
+Does Ökovital's Bio Smoothies contain any allergens like gelatine?,4038857130010,source_aware,"Ökovital's Bio Smoothies contains Schweinegelatine (pork gelatine) as part of its ingredients, which means it does contain gelatine. However, the product also states that no allergens are declared. 
+
+In summary:
+- Ökovital's Bio Smoothies: Contains gelatine and has no allergens declared.",,1548,,4038857130010|4335619226753|5999076238316|0838766006567|5060179300092,True,288,PARTLY_RELEVANT,"The answer indicates that the product contains gelatine, but it confusingly states that no allergens are declared, which contradicts the presence of gelatine."
+Does Niederegger's Mouss au Chocolat contain milk or nuts?,4000161020691,source_aware,"Niederegger's Mouss au Chocolat contains both milk and nuts. Specifically, the ingredients list includes ""Magermilchpulver"" (skimmed milk powder) and ""Haselnüsse"" (hazelnuts), while the allergens declared are milk and nuts. 
+
+Product referenced: Niederegger Mouss au Chocolat (id: 4000161020691).",,1644,,4000161020691|4316268553933|4311501440773|4021851636718|4061458021869,True,296,RELEVANT,The answer fully addresses the question by confirming the presence of both milk and nuts in Niederegger's Mouss au Chocolat.
+What is the sugar content per 100g in Biocoop's apricot spread?,3760121215321,source_aware,The sugar content per 100g in Biocoop's apricot spread (Confiture abricot extra 310g) is 61 g (based on Product 1).,,1271,1.0,3760121215321|7613312248416|7613356654655|5400113672784|0084380957543,True,115,RELEVANT,The answer provides the specific sugar content per 100g for Biocoop's apricot spread as requested.
+What are the ingredients in Hacendado's Pérolas pasta?,8402001019890,source_aware,"The ingredients in Hacendado's Pérolas pasta are: Sêmola de trigo-duro (gluten) (Product 1). 
+
+Allergens declared for this product include gluten and mustard.",,1493,,8402001019890|8422623125106|8480000635563|8480000633224|8029342000020,True,158,PARTLY_RELEVANT,"The answer provides the main ingredient but does not list all ingredients in Hacendado's Pérolas pasta, making it incomplete."
+How many calories are in 100 grams of Loyd Grossman Korma Sauce?,5000354159558,source_aware,Loyd Grossman Korma Sauce contains 128 kcal per 100 grams (Nutrition per 100g: energy: 128 kcal).,,1701,1.0,5000354159558|5011308505017|8712100698514|5059697765766|7610800230106,True,97,RELEVANT,The generated answer fully provides the correct calorie content of Loyd Grossman Korma Sauce per 100 grams.
+Does the Tomato & Sausage Pasta Sauce by Marks & Spencer contain celery?,00089227,source_aware,"Yes, the Tomato & Sausage Pasta Sauce by Marks & Spencer contains celery. This is confirmed by the ingredients list which includes ""Céleri"" (celery), and it is also listed as an allergen.",,1466,,00089227|00575300|00418881|00278355|00278386,True,187,RELEVANT,The answer fully addresses the question by confirming that the Tomato & Sausage Pasta Sauce contains celery and cites the ingredients list as evidence.
+What are the ingredients in Franprix's Cidre de Normandie brut?,3263855096186,source_aware,"The ingredients in Franprix's Cidre de Normandie brut are: Fruits à cidre de Normandie, sulfites (Product 1). There are no allergens declared for this product.",,1813,,3263855096186|3266191018645|3307131002208|3560071489441|3270160680856,True,159,RELEVANT,"The generated answer fully lists the ingredients in Franprix's Cidre de Normandie brut and notes the absence of allergens, adequately addressing the question."
+Can I find a frozen baby food pureed vegetable option suitable for infants starting from 4 months?,3760234500185,source_aware,"Yes, you can find a frozen baby food pureed vegetable option suitable for infants starting from 4 months. 
+
+The product is:
+
+- **Purée surgelée de potiron bio lisse pour bébé dès 4 mois** by Yooji
+  - Ingredients: Potiron (95%), eau de cuisson
+  - Allergens: none declared
+
+This product is specifically labeled as suitable for infants from 4 months and is a pureed vegetable option.",,1693,0.75,3760234500185|3256226762216|0015000047917|5060503502673|0015000073282,True,382,RELEVANT,The generated answer fully addresses the question by confirming the availability of a suitable frozen baby food pureed vegetable option for infants starting from 4 months.
+Do Proper Chips contain any sugar?,5391528181230,source_aware,"PROPER CHIPS (STRONG ROOTS) contain 0.5 g of sugar per 100 g. 
+
+Interpretation: This indicates that PROPER CHIPS have a very low sugar content.",,1285,1.0,4260353173493|0008400048028|8906076133265|5391528181230|0071026005201,True,143,RELEVANT,The generated answer fully addresses the question by providing the specific sugar content in Proper Chips.
+Which beverage from La Vie Claire is specifically made for Vata balance?,3266191019338,source_aware,"The beverage from La Vie Claire specifically made for Vata balance is ""Infusion ayurvédique Vata - La paix intérieure"" (Product 1).",,1461,,3266191019338|3266191018645|3760019004495|3266191035581|3266191151250,True,131,RELEVANT,The generated answer fully identifies the specific La Vie Claire beverage for Vata balance.
+Does Nestlé Clusters almond cereal contain any allergens?,7613287308870,source_aware,"Yes, Nestlé Clusters almond cereal (NESTLE CLUSTERS Mandel Cerealien) contains allergens. Specifically, it lists gluten and nuts as allergens. It may also contain traces of milk, peanuts, and other nuts, as noted in its ingredient statement.",,1782,,7613287308870|0850047220875|9310055536708|7613038379173|5011476102131,True,241,RELEVANT,The answer fully addresses the question by confirming the presence of allergens and specifying what they are.
+How many calories are in 100 grams of Pesto alla Genovese by Naturello?,8029175097709,source_aware,"The Pesto alla Genovese by Naturello contains 546 kcal per 100 grams, as stated in Product 1.",,1467,1.0,8029175097709|8029175095606|8029065003346|20069490|4061461781811,True,93,RELEVANT,The generated answer fully provides the calorie content of Pesto alla Genovese by Naturello as asked in the question.
+How many calories are in Remia honey mustard dressing per 100g?,8710448536956,source_aware,The Remia Honey Mustard Dressing contains 291 kcal per 100g (Source: Sauce Honey Mustard Dressing Remia).,,1448,1.0,8710448536956|0026700683558|8711200442881|8710448697589|40122786,True,105,RELEVANT,The generated answer fully provides the calorie count of Remia honey mustard dressing per 100g.
+How many calories are there in 100g of Hähnchen Cordon Bleu by Edeka?,4311596465880,source_aware,"There are 149 kcal in 100g of Hähnchen Cordon Bleu by Gut & Günstig, Edeka (Product 1).",,2190,1.0,4311596465880|4056489116585|4043362513302|4061458041201|4311501740736,True,87,PARTLY_RELEVANT,The answer provides a calorie count for a similar product but specifies 'Gut & Günstig' instead of the requested 'Hähnchen Cordon Bleu by Edeka'.
+How much salt is in Dijon mustard with chili from Penny?,25809633,source_aware,The Dijon mustard with chili from Penny (Dijonsenf mit Chili by Grillparty) contains 6 g of salt per 100 g (source: Product 1).,,1149,1.0,25809633|28079484|4311501641996|3036810100576|5000128919234,True,127,RELEVANT,"The answer fully provides the amount of salt in Dijon mustard with chili from Penny, along with the source of the information."
+How many calories are there in 100g of Galletas con Arroz Sin Sal by Macrobiotica?,7790538009585,source_aware,"The ""Galletas con Arroz Sin Sal"" by Macrobiotica contains 370 kcal per 100g.",,1413,1.0,7790538009585|8431876291834|3329480131019|8480010197488|8414807501110,True,76,RELEVANT,The answer fully addresses the question by providing the specific calorie content of the product as requested.
+Does clever spaghetti contain gluten?,9003740067129,source_aware,"Yes, Clever Spaghetti contains gluten, as it is made with Hartweizengrieß (semolina wheat) and has ""gluten"" listed as an allergen. 
+
+Another product, Spaghetti n°3 by Rummo, also contains gluten, with ingredients that include Sémoule de blé dur de qualité supérieure (premium durum wheat semolina) and lists ""gluten"" as an allergen.
+
+In contrast, Barilla Tagliatelle glutenvrij is gluten-free, using a mix of corn flour and brown rice flour, and explicitly states ""no gluten"" in its label.",,1255,1.0,9003740067129|8008343235723|8076809571586|21106507|0002409400072,True,489,RELEVANT,The generated answer fully addresses the question by confirming that Clever Spaghetti contains gluten and providing supporting details about its ingredients.
+What are the main ingredients in let's party Pigs in Blankets?,4088600192710,source_aware,"The main ingredients in ""let's party Pigs in Blankets"" are:
+
+- Pork Sausage (70%): consists of 
+  - Pork (57%), 
+  - Water, 
+  - Wheat Flour (including Calcium Carbonate, Iron, Niacin, Thiamin), 
+  - Pork Fat, 
+  - Pork Rind, 
+  - Salt, 
+  - Stabilisers (Diphosphates, Triphosphates), 
+  - Sugar, 
+  - Preservative (Sodium Sulphite), 
+  - Yeast Extract, 
+  - Ground White Pepper, 
+  - Ground Nutmeg, 
+  - Ground Ginger, 
+  - Ground Mace, 
+  - Pepper Extract, 
+  - Nutmeg Extract, 
+  - Mace Extract, 
+  - Antioxidant (Ascorbic Acid).
+
+- Smoked Streaky Bacon With Added Water (30%): consists of 
+  - Pork Belly (87%), 
+  - Water, 
+  - Salt, 
+  - Preservatives (Sodium Nitrite, Potassium Nitrate), 
+  - Antioxidant (Sodium Ascorbate).
+
+This information is sourced from Product 1, ""Pigs in Blankets"" by let's party.",,1863,0.0,4088600192710|4335619072459|5055496712116|5000169071663|50339518,True,811,RELEVANT,The generated answer fully lists the main ingredients in 'let's party Pigs in Blankets' with detailed breakdowns of their components.
+What are the main ingredients in Agidra Crevettes?,3580282330035,source_aware,"The main ingredients in Agidra Crevettes are:
+
+- Crevette (Metapenaeopsis spp., Metapenaeus spp., Parapenaeopsis sport.)
+- Water (eau)
+- Salt (sel)
+- Sugar (sucre)
+- Flavor enhancers (exhausteurs de goût: E640-E627-E631)
+- Acidifier (acidifiant: E330)
+- Antioxidants (antioxydants: disulfite de sodium-E385)
+
+This information is sourced from Product 1 (Agidra Crevettes).",,1323,,3580282330035|5704025024847|3267180364781|3596710430628|7611654605898,True,371,RELEVANT,"The generated answer fully lists the main ingredients in Agidra Crevettes, directly addressing the question asked."
+What are the ingredients in Kania Thousand Island Salad Dressing?,20121129,source_aware,"The ingredients in Kania Thousand Island Salad Dressing are as follows:
+
+- Vatten (water)
+- Rapsolja (rapeseed oil)
+- Socker (sugar)
+- Tomatkoncentrat 7 % (tomato concentrate 7%)
+- Ättiksprit (distilled vinegar)
+- Inlagd gurka 6 % (pickled cucumber 6%, consisting of cucumber, water, distilled vinegar, salt)
+- Röd paprika 4,2 % (red bell pepper 4.2%)
+- Modifierad majsstärkelse (modified corn starch)
+- Senap 2 % (mustard 2%, consisting of water, distilled vinegar, mustard seeds, sugar, salt)
+- Äggula (egg yolk)
+- Lök (onion)
+- Salt
+- Färgämne (coloring agent) (titandioxid, titanium dioxide)
+- Surhetsreglerande medel (acidity regulators) (mjölksyra, lactic acid)
+- Stabiliseringsmedel (stabilizers) (xantangummi, xanthan gum)
+- Konserveringsmedel (preservatives) (kaliumsorbat, potassium sorbate)
+- Vitpeppar (white pepper)
+- Gurkmeja (turmeric)
+- Paprikaextrakt (paprika extract)
+
+This information is sourced from the Kania Thousand Island Salad Dressing (Product 1). No allergens are declared for this product.",,2128,1.0,20121129|20061319|0011110048677|0027271121340|0194346266524,True,1017,RELEVANT,"The generated answer fully lists the ingredients in Kania Thousand Island Salad Dressing, addressing the question completely."
+How many calories are in 100g of Organic Arrabbiata sauce by Classico Italiano?,8029363759419,source_aware,The Organic Arrabbiata sauce by Classico Italiano contains 47 kcal per 100g (Product 1).,,1228,1.0,8029363759419|8016013001462|80022138|8056737782032|0041129395905,True,88,RELEVANT,The answer fully provides the calorie content of 100g of Organic Arrabbiata sauce by Classico Italiano.
+Is Kruidvat's Curcuma en gélules suitable for vegetarians?,8719179095879,source_aware,"Kruidvat's Curcuma en gélules is not suitable for vegetarians because it contains gélatine, which is an animal-derived ingredient. This information is based on the ingredients listed for Kruidvat's Curcuma en gélules (Product 1).",,1557,,8719179095879|3478820033145|8720182086396|8711200339495|8076809571586,True,229,RELEVANT,"The answer fully addresses the question by stating that Kruidvat's Curcuma en gélules is not suitable for vegetarians due to the presence of gélatine, which is an animal-derived ingredient."
+How many calories are there in 100g of GOLDEN muesli avec pommes et amandes?,3168930010975,source_aware,The GOLDEN muesli avec pommes et amandes contains 371 kcal per 100g (Information from Product 1).,,1786,1.0,3168930010975|3263851864017|2273107027180|3273120034034|3347431924350,True,97,RELEVANT,The generated answer fully answers the question by providing the calorie content of the specified muesli per 100g.
+How much fat is in Amy's California Scramble with Cheddar Cheese?,0042272014248,source_aware,"The amount of fat in Amy's California Scramble with Cheddar Cheese is 11.4286 g per 100 g, as stated in the product details for CALIFORNIA SCRAMBLE with CHEDDAR CHEESE (Product 1).",,1999,1.0,0042272014248|0042272001651|0042272011490|0042272008339|0043695071085,True,180,RELEVANT,The generated answer fully provides the fat content in Amy's California Scramble with Cheddar Cheese as specified in the product details.
+What baby food has turkey and sweet potatoes from Gerber?,0015000073282,source_aware,"The baby food from Gerber that contains turkey and sweet potatoes is ""Mealtime for Baby power blend Turkey Rice"" (Product 1). Its ingredients include sweet potatoes and ground turkey.",,1591,,0015000073282|0015000047917|0015000081096|0015000047450|0015000074920,True,183,PARTLY_RELEVANT,"The answer mentions a Gerber product with turkey and provides some ingredients, but it does not explicitly confirm that sweet potatoes are included in that specific product."
+What are the ingredients in Exotic Food's coconut cream?,8853662002125,source_aware,"The ingredients in Exotic Food's coconut cream (Kokoscreme) are as follows:
+
+- Kokosnussextrakt 85%
+- Wasser
+- Verdickungsmittel: Guarkernmehl
+- Natrium-Carboxymethylcellulose
+- Emulgator: Polysorbat 60
+
+All allergens are declared as none. This information is sourced from Product 1.",,2292,0.0,8853662002125|0814668000346|3580282816201|8428532192758|8050515301200,True,283,RELEVANT,The generated answer fully lists the ingredients in Exotic Food's coconut cream and includes a note about allergens.
+What is the main ingredient of Crème de la cream's Oats on the Go?,8714443805246,source_aware,"The main ingredient of Crème de la cream's Oats on the Go is ""Avoine instantanée (gluten)"" (instant oats) according to Product 1.",,1460,,8714443805246|0011110028051|5060343741423|6211144555521|0077890648445,True,129,RELEVANT,The answer correctly identifies the main ingredient of Crème de la cream's Oats on the Go.
+Can you recommend a type of chip with a high protein content?,8906076133265,source_aware,"The product with the highest protein content is ""Protein Chips"" (id: 4260353173493) with 37 g of protein per 100 g. 
+
+In comparison, ""Protein Chips"" from The Baker's Dozen (id: 8906076133265) contains 22.22 g of protein per 100 g, while the ""protein chips Korean Kimchi"" (id: 8906076133289) also has 22.22 g of protein per 100 g. 
+
+Thus, for high protein content, I recommend ""Protein Chips"" (id: 4260353173493).",,1648,1.0,4260353173493|8906076133265|8906076133289|0008400048028|5055936873728,True,412,RELEVANT,"The generated answer fully identifies a chip with high protein content and provides accurate details on protein amounts, addressing the question effectively."
+Are Roots kettle cooked potato chips made with avocado oil?,0850023976093,source_aware,"Yes, Roots kettle cooked potato chips are made with avocado oil. This is confirmed by Product 1, which lists the ingredients as IDAHO® purple potatoes, avocado oil, and sea salt.",,1193,,0850023976093|0708163121920|5391528181230|0011110836700|0011110109965,True,178,RELEVANT,The generated answer fully addresses the question by confirming that Roots kettle cooked potato chips are made with avocado oil and provides supporting ingredient information.
+What is the energy content of Franprix Cidre de Normandie brut per 100g?,3263855096186,source_aware,"The energy content of Franprix Cidre de Normandie brut is 0 kcal per 100g, as stated in Product 1.",,1192,,3263855096186|3596710548101|3307131002208|3266191018645|3270160680856,True,98,RELEVANT,"The answer correctly states that the energy content is 0 kcal per 100g, directly addressing the question."
+What is the calorie content of Great Value Rosée Pasta Sauce per 100g?,0628915408539,source_aware,"The calorie content of Great Value Rosée Pasta Sauce is 96 kcal per 100g, according to Product 1.",,1511,1.0,0628915408539|0194346052912|0078742346342|0605388927163|0810159831345,True,97,RELEVANT,The generated answer fully answers the question by providing the calorie content of Great Value Rosée Pasta Sauce per 100g.
+What is the energy content per 100g in Blue Dragon's Thai Red Curry Paste?,5010338206079,source_aware,The energy content per 100g in Blue Dragon's Thai Red Curry Paste is 145 kcal (Product 1).,,1579,1.0,5010338206079|0672774105870|5057753892357|2000000041075|0044738205610,True,90,RELEVANT,"The generated answer fully provides the energy content per 100g of Blue Dragon's Thai Red Curry Paste, which is the information requested in the question."
+What are the ingredients in Verfeuille's flower honey?,3527860000492,source_aware,"The ingredients in Verfeuille's flower honey, specifically ""Miel de fleurs des Cevennes VERFEUILLE,"" are listed as ""miel toutes fleurs récolté en France"" (flower honey harvested in France). This information is taken from Product 1. 
+
+No allergens are declared for this product.",,1138,,3527860000492|3335440071035|3770006547010|3770001125015|3760121219527,True,277,RELEVANT,"The generated answer provides the ingredients of Verfeuille's flower honey, indicating it is a flower honey harvested in France, and states that no allergens are declared, thus fully addressing the question."
+How much fat is in a 100g serving of Proper Chips by Strong Roots?,5391528181230,source_aware,A 100g serving of PROPER CHIPS by STRONG ROOTS contains 2.1 g of fat (Nutrition per 100g: fat: 2.1 g).,,1211,1.0,5391528181230|0850023976093|0008400048028|4260353173493|5099839046414,True,102,RELEVANT,The generated answer fully answers the question by providing the exact amount of fat in a 100g serving of Proper Chips by Strong Roots.
+What are the main ingredients in GOLDEN's muesli with apples and almonds?,3168930010975,source_aware,"The main ingredients in GOLDEN's Muesli avec pommes et amandes (Product 1) are:
+
+- Avoine complète (whole grain oats) (62%)
+- Seigle complet (whole grain rye) (21%)
+- Pétale de blé (wheat flakes) [farine de blé complet (whole wheat flour) (3.5%), farine de maïs (corn flour), inuline, extrait de malt d'orge (barley malt extract), sel (salt)]
+- Pomme séchée (dried apple) (3.5%)
+- Raisin sec (dried raisins)
+- Datte séchée (dried date)
+- Graine de tournesol (sunflower seed)
+- Amande effilée (sliced almond) (1%)
+- Oligofructose
+- Arôme naturel (natural flavor)
+
+Allergen information indicates that the product contains gluten.",,1966,1.0,3168930010975|4251680811066|4316268552394|0055712465777|3465511311378,True,627,RELEVANT,"The generated answer fully lists the main ingredients of GOLDEN's muesli with apples and almonds, addressing the question completely."
+What are the main ingredients in a sweet snack that contains 48.5% cashews?,8016225365963,source_aware,"The main ingredients in a sweet snack that contains 48.5% cashews are not explicitly detailed in the provided context. However, I can provide information about a product that contains a high percentage of cashews:
+
+1. **Alesto's Cashew Crush Raw Fruit & Nut Bars** contains **51% cashews** and **49% pitted dates**. 
+
+This shows a similar structure, but the exact product at 48.5% cashews is not listed. Therefore, the context does not provide a sweet snack specifically containing 48.5% cashews, which is the information that is missing.",,1458,0.4,0196633976796|4056489239925|0021130294244|0888670173695|0061200002423,False,538,RELEVANT,"The response accurately indicates that the specific ingredient list for a sweet snack with 48.5% cashews is not available, thereby addressing the question appropriately."
+Does Blédichef Lasagnes légumes contain gluten?,3041091828583,source_aware,"Yes, Blédichef Lasagnes légumes contains gluten. This is due to the presence of ""Lasagnes fraîches"" which includes ""Semoule de blé (GLUTEN)"" as listed in the ingredients (Product 1).",,1978,,3041091828583|8013554104676|27023310|3596710519927|3041091422125,True,182,RELEVANT,The generated answer fully addresses the question by confirming the presence of gluten in Blédichef Lasagnes légumes and providing supporting details from the ingredient list.
+Is there any sugar in KETO LOCA's dark chocolate drops?,5425032435067,source_aware,"KETO LOCA's dark chocolate drops, specifically the Belgian dark chocolate drops, contain 1.4 g of sugars per 100 g (Product 1).",,1393,1.0,5425032435067|8719324515504|0011110507761|4000161170617|0034000249770,True,127,RELEVANT,"The answer provides specific information about the sugar content in KETO LOCA's dark chocolate drops, fully addressing the question."
+How many calories are in 100g of Saveur d'Auge Coq au vin?,3454740001327,source_aware,"The Saveur d'Auge Coq au vin contains 148 kcal per 100g, as stated in the nutrition information for Product 1 ""Coq au vin"" by Saveur d'Auge.",,1375,1.0,3454740001327|3454740002348|0217637031622|3760055782791|3461951002418,True,140,RELEVANT,The generated answer fully provides the calorie information for 100g of Saveur d'Auge Coq au vin.
+How much sugar is in Rheila's Lakritz Hütchen?,4009077555051,source_aware,"Rheila's Lakritz Hütchen contains 40 g of sugar per 100 g, according to the product data provided.",,1577,1.0,4009077555051|40084527|4033500101751|4260133232280|4008452040441,True,98,RELEVANT,"The answer provides the sugar content in Rheila's Lakritz Hütchen, fully addressing the question."
+What are the main ingredients in HappyBABY's Pain au graines de tournesol?,36457953,source_aware,"The main ingredients in HappyBABY's Pain au graines de tournesol are:
+
+- Weizenmehl (wheat flour) (61%)
+- Sonnenblumenkerne (sunflower seeds) (20%)
+- Roggenmehl (rye flour) (12%)
+- getrockneter Sauerteig (dried sourdough made from rye flour, naturally fermented)
+- jodiertes Speisesalz (iodized table salt)
+- Trockenhefe (dry yeast)
+- Traubenzucker (glucose)
+- Gerstenmalzmehl (barley malt flour)
+- Malzextrakt (malt extract made from barley and rye)
+- Säuerungsmittel: Äpfelsäure (acidifying agent: malic acid)
+- Säureregulator Natriumacetat (sour regulator: sodium acetate)
+- Mehlbehandlungsmittel: Calciumphosphate (flour treatment agent: calcium phosphates)
+- Ascorbinsäure (ascorbic acid)
+
+Note: May contain traces of sesame, soy, lupin, nuts, and egg. (Source: HappyBABY's Pain au graines de tournesol).",,1616,1.0,36457953|3288131500119|7622210768933|6007812003384|3419390043318,True,809,RELEVANT,"The generated answer provides a complete list of the main ingredients in HappyBABY's Pain au graines de tournesol, directly answering the question."
+What type of dessert is Pilos Milchreis considered?,4335619161481,source_aware,"Pilos Milchreis is considered a rice pudding dessert. This classification is supported by its category listing as ""desserts, puddings, rice puddings"" in the product information for Pilos Milchreis.",,1525,,4335619161481|4311596465064|8711200454655|42414957|20090173,True,197,RELEVANT,The generated answer fully addresses the question by correctly identifying Pilos Milchreis as a rice pudding dessert and providing supporting details.

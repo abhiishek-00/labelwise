@@ -1,0 +1,13 @@
+strategy,split,n,hit_rate@5,hit_rate@10,mrr@5,mrr@10,seconds
+lexical,validation,746,0.7641,0.8123,0.6332,0.6401,8.2
+vector,validation,746,0.9638,0.9745,0.9361,0.9375,16.7
+hybrid_weighted,validation,746,0.9638,0.9745,0.9372,0.9387,26.0
+hybrid_rrf,validation,746,0.929,0.9665,0.8511,0.8561,25.7
+hybrid_weighted_subset,validation,150,0.9533,0.9733,0.9347,0.9373,0.0
+hybrid_weighted+rerank,validation,150,0.9933,0.9933,0.99,0.99,205.6
+FINAL hybrid_a0.1+rerank,test,150,0.98,0.98,0.9717,0.9717,0.0
+lexical,test,320,0.8219,0.8812,0.6873,0.6949,0.0
+vector,test,320,0.9625,0.9844,0.9286,0.9314,0.0
+hybrid_weighted,test,320,0.9688,0.9875,0.931,0.9333,0.0
+hybrid_rrf,test,320,0.9281,0.9563,0.8796,0.8838,0.0
+hybrid_a0.1 (same rows as FINAL),test,150,0.9533,0.9733,0.9224,0.9248,0.0

@@ -1,0 +1,3 @@
+strategy,attempted,scored,relevant_pct,partly_relevant_pct,non_relevant_pct,generation_failed,judge_failed,failure_pct,mean_grounding,fully_grounded_pct,scored_numeric_answers,mean_tokens,mean_answer_chars
+basic,150,150,90.7,6.7,2.7,0,0,0.0,0.915,86.5,89,1446,148
+source_aware,150,150,92.7,7.3,0.0,0,0,0.0,0.904,85.9,99,1612,263

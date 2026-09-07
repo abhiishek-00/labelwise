@@ -1,0 +1,4 @@
+condition,n,hit_rate@5,hit_rate@10,mrr@5,mrr@10,seconds
+turn_2_raw,70,0.0286,0.0857,0.0064,0.0136,37.4
+turn_2_rewritten,70,1.0,1.0,1.0,1.0,98.3
+turn_1_reference,70,1.0,1.0,1.0,1.0,36.6
