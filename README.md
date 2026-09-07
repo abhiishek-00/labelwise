@@ -47,7 +47,7 @@ intended behaviour is to say so rather than to fill the gap.
 
 *A caveat worth stating up front:* Open Food Facts is crowd-sourced. Fields are
 missing, inconsistent, and occasionally wrong, and unit conversion leaves values
-like 52.6315789473684 g of protein. LabelWise is faithful to its source, which
+like `52.6315789473684 g` of protein. LabelWise is faithful to its source, which
 means it is exactly as correct as the source is. It is a demonstration of
 grounded retrieval, not a food-safety tool.
 
