@@ -442,5 +442,5 @@ Live backend tests are deselected by default and need real credentials:
 ## Licence
 
 MIT — see LICENSE. Product data is from
-Open Food Facts, licensed under the
-Open Database License.
+[Open Food Facts](https://world.openfoodfacts.org), licensed under the
+[Open Database License](https://opendatacommons.org/licenses/odbl/1-0/).
