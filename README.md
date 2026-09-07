@@ -18,7 +18,7 @@ Built as the final project for the DataTalksClub LLM Zoomcamp.
 | Interface | [Quickstart](#quickstart) — Streamlit UI and FastAPI |
 | Ingestion pipeline | [Data and ingestion](#data-and-ingestion) — automated with dlt |
 | Monitoring | [Monitoring](#monitoring) — user feedback plus a 10-panel Grafana dashboard |
-| Containerization | docker-compose.yml — all four services |
+| Containerization | `docker-compose.yml` — all four services |
 | Reproducibility | [Reproducibility](#reproducibility) — committed corpus and ground truth, pinned lockfile and images |
 | Hybrid search | [Retrieval evaluation](#retrieval-evaluation) — lexical + vector, alpha swept |
 | Document re-ranking | [Re-ranking earns its place](#re-ranking-earns-its-place) — implemented, evaluated, enabled |
@@ -66,7 +66,7 @@ grounded retrieval, not a food-safety tool.
 
 ## Architecture
 
- mermaid
+ ```mermaid
  flowchart LR
      subgraph Ingestion["Ingestion (dlt, run once)"]
          CSV["Open Food Facts<br/>CSV export"] --> SAMPLE["Stratified<br/>reservoir sample"]
@@ -93,6 +93,8 @@ grounded retrieval, not a food-safety tool.
      API --> FB
      CONV --> GRAF["Grafana"]
      FB --> GRAF
+```
+
 
 Postgres is the only datastore. It holds the documents, the full-text index, the
 vectors, the conversation log and the feedback, and it is the Grafana data
@@ -110,34 +112,40 @@ Docker Compose.
 You need Docker and an OpenAI API key. A complete run — ingestion plus both
 evaluations — costs well under a dollar.
 
- bash
+ ```bash
  git clone <your-repo-url> && cd labelwise
  cp .env.example .env
+```
 
 Set your key in .env:
 
+```
  OPENAI_API_KEY=sk-...
+```
 
 Then:
 
- bash
+``` bash
  docker compose up -d --build
+```
 
-Four services start: Postgres, the API, Streamlit and Grafana. /health will
-report degraded until the database has a schema, which ingestion creates:
+Four services start: Postgres, the API, Streamlit and Grafana. `/health` will
+report `degraded` until the database has a schema, which ingestion creates:
 
- bash
+``` bash
  docker compose exec api python -m ingestion.dlt_pipeline
+```
 
 This loads the *committed 5,000-product snapshot* — no download of the 1 GB
-Open Food Facts export — and embeds it with text-embedding-3-small. A few
+Open Food Facts export — and embeds it with `text-embedding-3-small`. A few
 minutes, almost all of it embedding.
 
 Optionally seed the dashboard so its panels are populated before you have asked
 anything:
 
- bash
+``` bash
  docker compose exec api python -m scripts.seed_monitoring
+```
 
 Then open:
 
@@ -149,37 +157,38 @@ Then open:
 
 Verify:
 
- bash
+``` bash
  curl -s localhost:8000/health
+```
 
-products and embedded should both read 5000, and embedding_dim 1536.
+`products` and `embedded` should both read 5000, and `embedding_dim` 1536.
 
- *If you change the code, rebuild.* Compose bakes the source into the image
- rather than mounting it, so docker compose up alone keeps serving the old
- build. Use docker compose up -d --build.
+> *If you change the code, rebuild.* Compose bakes the source into the image
+> rather than mounting it, so `docker compose up` alone keeps serving the old
+> build. Use `docker compose up -d --build`.
 
 ---
 
 ## Configuration
 
-All settings live in .env; .env.example documents every option. The ones
+All settings live in `.env`; `.env.example` documents every option. The ones
 that matter:
 
 | Variable | Value | Why |
 |---|---|---|
-| LLM_EGRESS_POLICY | open | Defaults to proxy_only, which refuses external backends outright |
-| LLM_BACKEND | openai | |
-| OPENAI_BASE_URL | https://api.openai.com/v1 | Its default points elsewhere — set it explicitly |
-| OPENAI_MODEL | gpt-4o-mini | |
-| EMBED_BACKEND | openai | One key covers generation and embeddings |
-| EMBED_DIM | 1536 | *Must* match text-embedding-3-small; pgvector columns are fixed-width |
-| HYBRID_ALPHA | 0.1 | Chosen by sweep — see below |
-| ENABLE_RERANK | true | Measured improvement — see below |
-| ENABLE_QUERY_REWRITE | true | Largest single effect measured |
-| PROMPT_STRATEGY | basic | Tied on quality, cheaper in tokens |
+| LLM_EGRESS_POLICY | `open` | Defaults to `proxy_only`, which refuses external backends outright |
+| LLM_BACKEND | `openai` | |
+| OPENAI_BASE_URL | `https://api.openai.com/v1` | Its default points elsewhere — set it explicitly |
+| OPENAI_MODEL | `gpt-4o-mini` | |
+| EMBED_BACKEND | `openai` | One key covers generation and embeddings |
+| EMBED_DIM | `1536` | *Must* match text-embedding-3-small; pgvector columns are fixed-width |
+| HYBRID_ALPHA | `0.1` | Chosen by sweep — see below |
+| ENABLE_RERANK | `true` | Measured improvement — see below |
+| ENABLE_QUERY_REWRITE | `true` | Largest single effect measured |
+| PROMPT_STRATEGY | `basic` | Tied on quality, cheaper in tokens |
 
 Every one of these is the outcome of a measurement recorded below and
-reproducible from the committed artifacts in data/evaluation/.
+reproducible from the committed artifacts in `data/evaluation/`.
 
 ---
 
@@ -189,7 +198,7 @@ The corpus is 5,000 products sampled from the Open Food Facts CSV export
 (~4.5 M rows).
 
 Ingestion is a *dlt* pipeline: normalise records, load to a staging table,
-promote into products, generate embeddings, build indexes, then verify against
+promote into `products`, generate embeddings, build indexes, then verify against
 a gate that fails the run rather than reporting success on a broken corpus.
 
 Two decisions shaped the corpus:
@@ -203,16 +212,17 @@ ordered by barcode, so reading its head yields a corpus skewed toward whatever
 is listed first. Per-bucket reservoir sampling over every row in a single pass
 spreads the corpus across 16 category buckets evenly.
 
-The sampled corpus is committed to data/snapshot/products.csv. Open Food Facts
+The sampled corpus is committed to `data/snapshot/products.csv`. Open Food Facts
 regenerates its export daily, so without a pinned snapshot a later run would
 draw different barcodes — and the ground truth, which is barcode-keyed, would
 break.
 
 To rebuild from source instead:
 
- bash
+``` bash
  # expects the export at data/raw/en.openfoodfacts.org.products.csv.gz
  docker compose exec api python -m ingestion.dlt_pipeline --refresh --reset
+```
 
 ---
 
@@ -280,8 +290,9 @@ single effect measured anywhere in the project.
 
 Reproduce:
 
- bash
+``` bash
  docker compose exec api python -m evaluation.retrieval_eval
+```
 
 ---
 
@@ -297,25 +308,26 @@ separately by checking every number in the answer against the source records.
 | basic | 150/150 | 90.7% | 6.7% | 2.7% | 0.915 | 86% | 1,446 |
 | source_aware | 150/150 | 92.7% | 7.3% | 0.0% | 0.904 | 86% | 1,612 |
 
-*Selected: basic, on cost rather than quality.*
+*Selected: `basic`, on cost rather than quality.*
 
 The 2.0-point relevance gap is three answers out of 150 — inside sampling noise
 at this size, so the harness falls back to token cost rather than declaring a
-quality winner it cannot support. basic is 10% cheaper per answer and produces
+quality winner it cannot support. `basic` is 10% cheaper per answer and produces
 shorter answers (148 vs 263 characters) at equivalent grounding.
 
-source_aware has one genuine edge worth noting: *zero non-relevant answers*,
-against 2.7% for basic. On a larger sample that might separate the two. It is
+`source_aware` has one genuine edge worth noting: *zero non-relevant answers*,
+against 2.7% for `basic`. On a larger sample that might separate the two. It is
 recorded here rather than buried, and switching is a one-line change to
-PROMPT_STRATEGY.
+`PROMPT_STRATEGY`.
 
 Percentages are over answers that received a verdict. *No calls were lost* —
 0 generation failures and 0 judge failures across all 300 answers.
 
 Reproduce:
 
- bash
+``` bash
  docker compose exec api python -m evaluation.rag_eval
+```
 
 ---
 
@@ -328,11 +340,11 @@ request volume, average and P95 response time, user feedback, answer relevance,
 numeric grounding over time, token usage, cumulative estimated cost, retrieval
 method usage and latency, and recent questions that received negative feedback.
 
-Every question is logged to conversations with its retrieval method, token
+Every question is logged to `conversations` with its retrieval method, token
 counts, latency breakdown, relevance verdict and grounding score. Thumbs
-up/down go to feedback.
+up/down go to `feedback`.
 
-scripts/seed_monitoring.py writes synthetic history so the dashboard is
+`scripts/seed_monitoring.py` writes synthetic history so the dashboard is
 populated on a fresh boot rather than showing empty panels.
 
 ---
@@ -350,8 +362,8 @@ Measured against gpt-4o-mini and text-embedding-3-small at list prices.
 | *Full rebuild from scratch* | *~$0.60* |
 
 Serving a single user question costs roughly $0.0005 with re-ranking and the
-online judge both enabled. Set COST_PROMPT_PER_1M and
-COST_COMPLETION_PER_1M to match your model, or Grafana's cost panel will
+online judge both enabled. Set `COST_PROMPT_PER_1M` and
+`COST_COMPLETION_PER_1M` to match your model, or Grafana's cost panel will
 report a confident but wrong number.
 
 ---
@@ -361,12 +373,12 @@ report a confident but wrong number.
  The *5,000-product corpus* is committed, so everyone indexes identical data.
  The *ground truth* (1,066 questions plus 80 conversational examples) is
   committed, so retrieval metrics recompute without regenerating questions.
- All *evaluation outputs* are committed under data/evaluation/.
- Dependencies are pinned in uv.lock; Docker images are pinned by tag.
+ All *evaluation outputs* are committed under `data/evaluation/`.
+ Dependencies are pinned in `uv.lock`; Docker images are pinned by tag.
  Retrieval evaluation after the first run is pure SQL plus a cached
   query-vector file — no API calls for the lexical, vector, hybrid and
   alpha-sweep comparisons.
- The published numbers were measured with text-embedding-3-small at 1536
+ The published numbers were measured with `text-embedding-3-small` at 1536
   dimensions, which is what the documented configuration gives you, so they
   should reproduce closely.
 
@@ -379,16 +391,19 @@ inspected even where they cannot be reproduced bit-for-bit.
 
 ## Development
 
- bash
+``` bash
  uv sync
  docker compose up -d postgres
  pytest tests -q # 120 tests, no API calls, no key required
+```
 
 Live backend tests are deselected by default and need real credentials:
 
- bash
+``` bash
  pytest -m live
+```
 
+```
  app/ config, db, llm, embeddings, retrieval, rag, prompts, api
  ingestion/ dlt pipeline, sampling, normalisation
  evaluation/ ground-truth generation, retrieval eval, RAG eval
@@ -397,6 +412,7 @@ Live backend tests are deselected by default and need real credentials:
  grafana/ provisioned datasource + dashboard
  sql/ schema
  tests/ contract, retry, normalisation and UI tests
+```
 
 ---
 
@@ -409,7 +425,7 @@ Live backend tests are deselected by default and need real credentials:
   still separate cleanly, so the evaluation retains discriminating power where
   it matters.
  *Source data quality varies.* Missing fields, inconsistent units and
-  artefacts like 52.6315789473684 g. Answers inherit this, faithfully.
+  artefacts like `52.6315789473684 g`. Answers inherit this, faithfully.
  *Question categories are unevenly distributed.* Nutrition, ingredient and
   allergen questions dominate; comparison questions are only 1.1% of the set,
   because requiring each question to identify a single product makes comparisons
@@ -418,7 +434,7 @@ Live backend tests are deselected by default and need real credentials:
  *Re-ranking is measured on 150 of 320 test questions,* since each costs an
   LLM call. The comparison is like-for-like on those rows, but the sample is
   smaller than the headline table.
- *Prompt strategies are separated by three answers.* basic ships on cost;
+ *Prompt strategies are separated by three answers.* `basic` ships on cost;
   the quality difference is not established at this sample size.
 
 ---
