@@ -154,7 +154,7 @@ Then open:
 |---|---|
 | Streamlit UI | http://localhost:8501 |
 | API docs | http://localhost:8000/docs |
-| Grafana | http://localhost:3000 (admin / admin) |
+| Grafana | http://localhost:3000/d/labelwise-main/labelwise-rag-monitoring (admin / admin) |
 
 Verify:
 
