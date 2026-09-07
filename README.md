@@ -113,7 +113,7 @@ You need Docker and an OpenAI API key. A complete run — ingestion plus both
 evaluations — costs well under a dollar.
 
  ```bash
- git clone <your-repo-url> && cd labelwise
+ git clone git@github.com:abhiishek-00/labelwise.git && cd labelwise
  cp .env.example .env
 ```
 
