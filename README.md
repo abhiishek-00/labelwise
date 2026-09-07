@@ -156,6 +156,8 @@ Then open:
 | API docs | http://localhost:8000/docs |
 | Grafana | http://localhost:3000/d/labelwise-main/labelwise-rag-monitoring (admin / admin) |
 
+Grafana credentials are `admin`/`admin`. The dashboard is provisioned from `grafana/dashboards/labelwise.json`, so it exists on first boot with no import step. It defaults to 24-hour window - widen it to 7 days if you seeded synthetic history.
+
 Verify:
 
 ``` bash
